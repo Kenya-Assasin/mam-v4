@@ -1,0 +1,1 @@
+ALTER TABLE `preferences` ADD `weekly_goal` integer DEFAULT 3 NOT NULL;

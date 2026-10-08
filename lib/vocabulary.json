@@ -1,0 +1,4088 @@
+{
+  "en": [
+    {
+      "id": "en-w001",
+      "term": "hello",
+      "meaning": "xin chào",
+      "category": "greetings",
+      "example": {
+        "text": "Hello, I'm Linh.",
+        "meaning": "Xin chào, tôi là Linh."
+      }
+    },
+    {
+      "id": "en-w002",
+      "term": "good morning",
+      "meaning": "chào buổi sáng",
+      "category": "greetings",
+      "example": {
+        "text": "Good morning, Alex!",
+        "meaning": "Chào buổi sáng, Alex!"
+      }
+    },
+    {
+      "id": "en-w003",
+      "term": "good afternoon",
+      "meaning": "chào buổi chiều",
+      "category": "greetings",
+      "example": {
+        "text": "Good afternoon, everyone.",
+        "meaning": "Chào buổi chiều, mọi người."
+      }
+    },
+    {
+      "id": "en-w004",
+      "term": "good evening",
+      "meaning": "chào buổi tối",
+      "category": "greetings",
+      "example": {
+        "text": "Good evening, Linh.",
+        "meaning": "Chào buổi tối, Linh."
+      }
+    },
+    {
+      "id": "en-w005",
+      "term": "goodbye",
+      "meaning": "tạm biệt",
+      "category": "greetings",
+      "example": {
+        "text": "Goodbye, Alex!",
+        "meaning": "Tạm biệt, Alex!"
+      }
+    },
+    {
+      "id": "en-w006",
+      "term": "see you later",
+      "meaning": "hẹn gặp lại sau",
+      "category": "greetings",
+      "example": {
+        "text": "See you later, Linh.",
+        "meaning": "Hẹn gặp lại sau, Linh."
+      }
+    },
+    {
+      "id": "en-w007",
+      "term": "thank you",
+      "meaning": "cảm ơn",
+      "category": "greetings",
+      "example": {
+        "text": "Thank you for your help.",
+        "meaning": "Cảm ơn sự giúp đỡ của bạn."
+      }
+    },
+    {
+      "id": "en-w008",
+      "term": "you're welcome",
+      "meaning": "không có gì (đáp lời cảm ơn)",
+      "category": "greetings",
+      "example": {
+        "text": "You're welcome.",
+        "meaning": "Không có gì."
+      }
+    },
+    {
+      "id": "en-w009",
+      "term": "please",
+      "meaning": "làm ơn (khi nhờ hoặc yêu cầu)",
+      "category": "greetings",
+      "example": {
+        "text": "Water, please.",
+        "meaning": "Cho tôi nước, làm ơn."
+      }
+    },
+    {
+      "id": "en-w010",
+      "term": "sorry",
+      "meaning": "xin lỗi (khi mắc lỗi)",
+      "category": "greetings",
+      "example": {
+        "text": "Sorry, I'm late.",
+        "meaning": "Xin lỗi, tôi đến muộn."
+      }
+    },
+    {
+      "id": "en-w011",
+      "term": "excuse me",
+      "meaning": "xin phép làm phiền (để mở lời)",
+      "category": "greetings",
+      "example": {
+        "text": "Excuse me, where is the café?",
+        "meaning": "Xin phép làm phiền, quán cà phê ở đâu?"
+      }
+    },
+    {
+      "id": "en-w012",
+      "term": "nice to meet you",
+      "meaning": "rất vui được gặp bạn",
+      "category": "greetings",
+      "example": {
+        "text": "Nice to meet you, Alex.",
+        "meaning": "Rất vui được gặp bạn, Alex."
+      }
+    },
+    {
+      "id": "en-w013",
+      "term": "I",
+      "meaning": "tôi",
+      "category": "people",
+      "example": {
+        "text": "I live here.",
+        "meaning": "Tôi sống ở đây."
+      }
+    },
+    {
+      "id": "en-w014",
+      "term": "you",
+      "meaning": "bạn",
+      "category": "people",
+      "example": {
+        "text": "You can sit here.",
+        "meaning": "Bạn có thể ngồi ở đây."
+      }
+    },
+    {
+      "id": "en-w015",
+      "term": "we",
+      "meaning": "chúng tôi",
+      "category": "people",
+      "example": {
+        "text": "We study together.",
+        "meaning": "Chúng tôi học cùng nhau."
+      }
+    },
+    {
+      "id": "en-w016",
+      "term": "they",
+      "meaning": "họ",
+      "category": "people",
+      "example": {
+        "text": "They are my friends.",
+        "meaning": "Họ là những người bạn của tôi."
+      }
+    },
+    {
+      "id": "en-w017",
+      "term": "friend",
+      "meaning": "người bạn",
+      "category": "people",
+      "example": {
+        "text": "My friend is here.",
+        "meaning": "Bạn của tôi ở đây."
+      }
+    },
+    {
+      "id": "en-w018",
+      "term": "mother",
+      "meaning": "mẹ",
+      "category": "people",
+      "example": {
+        "text": "My mother likes tea.",
+        "meaning": "Mẹ tôi thích trà."
+      }
+    },
+    {
+      "id": "en-w019",
+      "term": "father",
+      "meaning": "bố",
+      "category": "people",
+      "example": {
+        "text": "My father works in an office.",
+        "meaning": "Bố tôi làm việc ở một văn phòng."
+      }
+    },
+    {
+      "id": "en-w020",
+      "term": "sister",
+      "meaning": "chị hoặc em gái",
+      "category": "people",
+      "example": {
+        "text": "My sister is a student.",
+        "meaning": "Chị / em gái tôi là sinh viên / học sinh."
+      }
+    },
+    {
+      "id": "en-w021",
+      "term": "brother",
+      "meaning": "anh hoặc em trai",
+      "category": "people",
+      "example": {
+        "text": "I have one brother.",
+        "meaning": "Tôi có một anh / em trai."
+      }
+    },
+    {
+      "id": "en-w022",
+      "term": "child",
+      "meaning": "đứa trẻ",
+      "category": "people",
+      "example": {
+        "text": "The child is playing.",
+        "meaning": "Đứa trẻ đang chơi."
+      }
+    },
+    {
+      "id": "en-w023",
+      "term": "teacher",
+      "meaning": "giáo viên",
+      "category": "people",
+      "example": {
+        "text": "Our teacher is kind.",
+        "meaning": "Giáo viên của chúng tôi tốt bụng."
+      }
+    },
+    {
+      "id": "en-w024",
+      "term": "neighbor",
+      "meaning": "hàng xóm",
+      "category": "people",
+      "example": {
+        "text": "My neighbor is friendly.",
+        "meaning": "Hàng xóm của tôi thân thiện."
+      }
+    },
+    {
+      "id": "en-w025",
+      "term": "zero",
+      "meaning": "số không",
+      "category": "numbers",
+      "example": {
+        "text": "Write zero here.",
+        "meaning": "Viết số không ở đây."
+      }
+    },
+    {
+      "id": "en-w026",
+      "term": "one",
+      "meaning": "một",
+      "category": "numbers",
+      "example": {
+        "text": "One ticket, please.",
+        "meaning": "Cho tôi một vé, làm ơn."
+      }
+    },
+    {
+      "id": "en-w027",
+      "term": "two",
+      "meaning": "hai",
+      "category": "numbers",
+      "example": {
+        "text": "I'd like two apples.",
+        "meaning": "Tôi muốn hai quả táo."
+      }
+    },
+    {
+      "id": "en-w028",
+      "term": "three",
+      "meaning": "ba",
+      "category": "numbers",
+      "example": {
+        "text": "We need three cups.",
+        "meaning": "Chúng tôi cần ba chiếc cốc."
+      }
+    },
+    {
+      "id": "en-w029",
+      "term": "four",
+      "meaning": "bốn",
+      "category": "numbers",
+      "example": {
+        "text": "There are four chairs.",
+        "meaning": "Có bốn chiếc ghế."
+      }
+    },
+    {
+      "id": "en-w030",
+      "term": "five",
+      "meaning": "năm (số lượng)",
+      "category": "numbers",
+      "example": {
+        "text": "I have five minutes.",
+        "meaning": "Tôi có năm phút."
+      }
+    },
+    {
+      "id": "en-w031",
+      "term": "six",
+      "meaning": "sáu",
+      "category": "numbers",
+      "example": {
+        "text": "I wake up at six.",
+        "meaning": "Tôi thức dậy lúc sáu giờ."
+      }
+    },
+    {
+      "id": "en-w032",
+      "term": "seven",
+      "meaning": "bảy",
+      "category": "numbers",
+      "example": {
+        "text": "A week has seven days.",
+        "meaning": "Một tuần có bảy ngày."
+      }
+    },
+    {
+      "id": "en-w033",
+      "term": "eight",
+      "meaning": "tám",
+      "category": "numbers",
+      "example": {
+        "text": "The bus leaves at eight.",
+        "meaning": "Xe buýt khởi hành lúc tám giờ."
+      }
+    },
+    {
+      "id": "en-w034",
+      "term": "nine",
+      "meaning": "chín",
+      "category": "numbers",
+      "example": {
+        "text": "It's nine o'clock.",
+        "meaning": "Bây giờ là chín giờ."
+      }
+    },
+    {
+      "id": "en-w035",
+      "term": "ten",
+      "meaning": "mười",
+      "category": "numbers",
+      "example": {
+        "text": "It costs ten dollars.",
+        "meaning": "Nó có giá mười đô la."
+      }
+    },
+    {
+      "id": "en-w036",
+      "term": "twenty",
+      "meaning": "hai mươi",
+      "category": "numbers",
+      "example": {
+        "text": "There are twenty students.",
+        "meaning": "Có hai mươi sinh viên / học sinh."
+      }
+    },
+    {
+      "id": "en-w037",
+      "term": "water",
+      "meaning": "nước uống",
+      "category": "food",
+      "example": {
+        "text": "I'd like some water.",
+        "meaning": "Tôi muốn một ít nước uống."
+      }
+    },
+    {
+      "id": "en-w038",
+      "term": "tea",
+      "meaning": "trà",
+      "category": "food",
+      "example": {
+        "text": "I prefer tea to coffee.",
+        "meaning": "Tôi thích trà hơn cà phê."
+      }
+    },
+    {
+      "id": "en-w039",
+      "term": "coffee",
+      "meaning": "cà phê",
+      "category": "food",
+      "example": {
+        "text": "One coffee, please.",
+        "meaning": "Cho tôi một ly cà phê, làm ơn."
+      }
+    },
+    {
+      "id": "en-w040",
+      "term": "milk",
+      "meaning": "sữa",
+      "category": "food",
+      "example": {
+        "text": "Do you want some milk?",
+        "meaning": "Bạn muốn một ít sữa không?"
+      }
+    },
+    {
+      "id": "en-w041",
+      "term": "rice",
+      "meaning": "cơm",
+      "category": "food",
+      "example": {
+        "text": "I eat rice for lunch.",
+        "meaning": "Tôi ăn cơm vào bữa trưa."
+      }
+    },
+    {
+      "id": "en-w042",
+      "term": "bread",
+      "meaning": "bánh mì",
+      "category": "food",
+      "example": {
+        "text": "I'd like some bread.",
+        "meaning": "Tôi muốn một ít bánh mì."
+      }
+    },
+    {
+      "id": "en-w043",
+      "term": "egg",
+      "meaning": "trứng",
+      "category": "food",
+      "example": {
+        "text": "I'd like an egg.",
+        "meaning": "Tôi muốn một quả trứng."
+      }
+    },
+    {
+      "id": "en-w044",
+      "term": "apple",
+      "meaning": "táo",
+      "category": "food",
+      "example": {
+        "text": "This apple is sweet.",
+        "meaning": "Quả táo này ngọt."
+      }
+    },
+    {
+      "id": "en-w045",
+      "term": "banana",
+      "meaning": "chuối",
+      "category": "food",
+      "example": {
+        "text": "I have a banana.",
+        "meaning": "Tôi có một quả chuối."
+      }
+    },
+    {
+      "id": "en-w046",
+      "term": "chicken",
+      "meaning": "thịt gà",
+      "category": "food",
+      "example": {
+        "text": "I'd like chicken and rice.",
+        "meaning": "Tôi muốn thịt gà và cơm."
+      }
+    },
+    {
+      "id": "en-w047",
+      "term": "vegetables",
+      "meaning": "rau",
+      "category": "food",
+      "example": {
+        "text": "I like vegetables.",
+        "meaning": "Tôi thích rau."
+      }
+    },
+    {
+      "id": "en-w048",
+      "term": "breakfast",
+      "meaning": "bữa sáng",
+      "category": "food",
+      "example": {
+        "text": "I have breakfast at seven.",
+        "meaning": "Tôi ăn sáng lúc bảy giờ."
+      }
+    },
+    {
+      "id": "en-w049",
+      "term": "home",
+      "meaning": "nhà (nơi mình sống)",
+      "category": "places",
+      "example": {
+        "text": "I'm going home.",
+        "meaning": "Tôi đang về nhà."
+      }
+    },
+    {
+      "id": "en-w050",
+      "term": "school",
+      "meaning": "trường học",
+      "category": "places",
+      "example": {
+        "text": "The school is near my home.",
+        "meaning": "Trường học ở gần nhà tôi."
+      }
+    },
+    {
+      "id": "en-w051",
+      "term": "café",
+      "meaning": "quán cà phê",
+      "category": "places",
+      "example": {
+        "text": "Let's meet at the café.",
+        "meaning": "Mình gặp nhau ở quán cà phê nhé."
+      }
+    },
+    {
+      "id": "en-w052",
+      "term": "supermarket",
+      "meaning": "siêu thị",
+      "category": "places",
+      "example": {
+        "text": "The supermarket is nearby.",
+        "meaning": "Siêu thị ở gần đây."
+      }
+    },
+    {
+      "id": "en-w053",
+      "term": "park",
+      "meaning": "công viên",
+      "category": "places",
+      "example": {
+        "text": "I went to the park.",
+        "meaning": "Tôi đã đến công viên."
+      }
+    },
+    {
+      "id": "en-w054",
+      "term": "office",
+      "meaning": "văn phòng",
+      "category": "places",
+      "example": {
+        "text": "I work in an office.",
+        "meaning": "Tôi làm việc ở một văn phòng."
+      }
+    },
+    {
+      "id": "en-w055",
+      "term": "library",
+      "meaning": "thư viện",
+      "category": "places",
+      "example": {
+        "text": "The library is quiet.",
+        "meaning": "Thư viện yên tĩnh."
+      }
+    },
+    {
+      "id": "en-w056",
+      "term": "station",
+      "meaning": "nhà ga",
+      "category": "places",
+      "example": {
+        "text": "Where is the station?",
+        "meaning": "Nhà ga ở đâu?"
+      }
+    },
+    {
+      "id": "en-w057",
+      "term": "restaurant",
+      "meaning": "nhà hàng",
+      "category": "places",
+      "example": {
+        "text": "This restaurant is nice.",
+        "meaning": "Nhà hàng này dễ chịu."
+      }
+    },
+    {
+      "id": "en-w058",
+      "term": "room",
+      "meaning": "căn phòng",
+      "category": "places",
+      "example": {
+        "text": "This room is bigger.",
+        "meaning": "Phòng này lớn hơn."
+      }
+    },
+    {
+      "id": "en-w059",
+      "term": "hotel",
+      "meaning": "khách sạn",
+      "category": "places",
+      "example": {
+        "text": "Our hotel is near the station.",
+        "meaning": "Khách sạn của chúng tôi ở gần nhà ga."
+      }
+    },
+    {
+      "id": "en-w060",
+      "term": "restroom",
+      "meaning": "nhà vệ sinh",
+      "category": "places",
+      "example": {
+        "text": "Where is the restroom?",
+        "meaning": "Nhà vệ sinh ở đâu?"
+      }
+    },
+    {
+      "id": "en-w061",
+      "term": "today",
+      "meaning": "hôm nay",
+      "category": "time",
+      "example": {
+        "text": "I'm free today.",
+        "meaning": "Hôm nay tôi rảnh."
+      }
+    },
+    {
+      "id": "en-w062",
+      "term": "tomorrow",
+      "meaning": "ngày mai",
+      "category": "time",
+      "example": {
+        "text": "I'll call you tomorrow.",
+        "meaning": "Ngày mai tôi sẽ gọi cho bạn."
+      }
+    },
+    {
+      "id": "en-w063",
+      "term": "yesterday",
+      "meaning": "hôm qua",
+      "category": "time",
+      "example": {
+        "text": "I watched a movie yesterday.",
+        "meaning": "Hôm qua tôi xem một bộ phim."
+      }
+    },
+    {
+      "id": "en-w064",
+      "term": "morning",
+      "meaning": "buổi sáng",
+      "category": "time",
+      "example": {
+        "text": "I study in the morning.",
+        "meaning": "Tôi học vào buổi sáng."
+      }
+    },
+    {
+      "id": "en-w065",
+      "term": "afternoon",
+      "meaning": "buổi chiều",
+      "category": "time",
+      "example": {
+        "text": "I'm free this afternoon.",
+        "meaning": "Chiều nay tôi rảnh."
+      }
+    },
+    {
+      "id": "en-w066",
+      "term": "evening",
+      "meaning": "buổi tối",
+      "category": "time",
+      "example": {
+        "text": "I read in the evening.",
+        "meaning": "Tôi đọc sách vào buổi tối."
+      }
+    },
+    {
+      "id": "en-w067",
+      "term": "night",
+      "meaning": "ban đêm",
+      "category": "time",
+      "example": {
+        "text": "It's quiet at night.",
+        "meaning": "Ban đêm yên tĩnh."
+      }
+    },
+    {
+      "id": "en-w068",
+      "term": "week",
+      "meaning": "tuần",
+      "category": "time",
+      "example": {
+        "text": "See you next week.",
+        "meaning": "Hẹn gặp bạn tuần sau."
+      }
+    },
+    {
+      "id": "en-w069",
+      "term": "weekend",
+      "meaning": "cuối tuần",
+      "category": "time",
+      "example": {
+        "text": "I'm busy this weekend.",
+        "meaning": "Cuối tuần này tôi bận."
+      }
+    },
+    {
+      "id": "en-w070",
+      "term": "month",
+      "meaning": "tháng",
+      "category": "time",
+      "example": {
+        "text": "The course starts next month.",
+        "meaning": "Khóa học bắt đầu vào tháng sau."
+      }
+    },
+    {
+      "id": "en-w071",
+      "term": "hour",
+      "meaning": "giờ (đơn vị thời gian)",
+      "category": "time",
+      "example": {
+        "text": "The lesson takes one hour.",
+        "meaning": "Buổi học kéo dài một giờ."
+      }
+    },
+    {
+      "id": "en-w072",
+      "term": "minute",
+      "meaning": "phút",
+      "category": "time",
+      "example": {
+        "text": "Wait a minute, please.",
+        "meaning": "Làm ơn đợi một phút."
+      }
+    },
+    {
+      "id": "en-w073",
+      "term": "go",
+      "meaning": "đi",
+      "category": "actions",
+      "example": {
+        "text": "Let's go to the park.",
+        "meaning": "Mình đi công viên nhé."
+      }
+    },
+    {
+      "id": "en-w074",
+      "term": "come",
+      "meaning": "đến",
+      "category": "actions",
+      "example": {
+        "text": "Please come at three.",
+        "meaning": "Làm ơn đến lúc ba giờ."
+      }
+    },
+    {
+      "id": "en-w075",
+      "term": "eat",
+      "meaning": "ăn",
+      "category": "actions",
+      "example": {
+        "text": "I usually eat at home.",
+        "meaning": "Tôi thường ăn ở nhà."
+      }
+    },
+    {
+      "id": "en-w076",
+      "term": "drink",
+      "meaning": "uống",
+      "category": "actions",
+      "example": {
+        "text": "What would you like to drink?",
+        "meaning": "Bạn muốn uống gì?"
+      }
+    },
+    {
+      "id": "en-w077",
+      "term": "buy",
+      "meaning": "mua",
+      "category": "actions",
+      "example": {
+        "text": "I'd like to buy this bag.",
+        "meaning": "Tôi muốn mua chiếc túi này."
+      }
+    },
+    {
+      "id": "en-w078",
+      "term": "pay",
+      "meaning": "trả tiền",
+      "category": "actions",
+      "example": {
+        "text": "Can I pay by card?",
+        "meaning": "Tôi trả bằng thẻ được không?"
+      }
+    },
+    {
+      "id": "en-w079",
+      "term": "speak",
+      "meaning": "nói",
+      "category": "actions",
+      "example": {
+        "text": "Please speak slowly.",
+        "meaning": "Làm ơn nói chậm."
+      }
+    },
+    {
+      "id": "en-w080",
+      "term": "listen",
+      "meaning": "lắng nghe",
+      "category": "actions",
+      "example": {
+        "text": "Please listen to this sentence.",
+        "meaning": "Làm ơn lắng nghe câu này."
+      }
+    },
+    {
+      "id": "en-w081",
+      "term": "read",
+      "meaning": "đọc",
+      "category": "actions",
+      "example": {
+        "text": "I read a book every day.",
+        "meaning": "Tôi đọc sách mỗi ngày."
+      }
+    },
+    {
+      "id": "en-w082",
+      "term": "write",
+      "meaning": "viết",
+      "category": "actions",
+      "example": {
+        "text": "Please write your name here.",
+        "meaning": "Làm ơn viết tên bạn ở đây."
+      }
+    },
+    {
+      "id": "en-w083",
+      "term": "open",
+      "meaning": "mở",
+      "category": "actions",
+      "example": {
+        "text": "Could you open the window?",
+        "meaning": "Bạn mở cửa sổ giúp tôi được không?"
+      }
+    },
+    {
+      "id": "en-w084",
+      "term": "close",
+      "meaning": "đóng",
+      "category": "actions",
+      "example": {
+        "text": "Please close the door.",
+        "meaning": "Làm ơn đóng cửa."
+      }
+    },
+    {
+      "id": "en-w085",
+      "term": "happy",
+      "meaning": "vui",
+      "category": "feelings",
+      "example": {
+        "text": "I'm happy to see you.",
+        "meaning": "Tôi vui khi gặp bạn."
+      }
+    },
+    {
+      "id": "en-w086",
+      "term": "sad",
+      "meaning": "buồn",
+      "category": "feelings",
+      "example": {
+        "text": "I feel sad today.",
+        "meaning": "Hôm nay tôi cảm thấy buồn."
+      }
+    },
+    {
+      "id": "en-w087",
+      "term": "tired",
+      "meaning": "mệt",
+      "category": "feelings",
+      "example": {
+        "text": "I'm tired tonight.",
+        "meaning": "Tối nay tôi mệt."
+      }
+    },
+    {
+      "id": "en-w088",
+      "term": "hungry",
+      "meaning": "đói",
+      "category": "feelings",
+      "example": {
+        "text": "I'm hungry. Let's have lunch.",
+        "meaning": "Tôi đói. Mình ăn trưa nhé."
+      }
+    },
+    {
+      "id": "en-w089",
+      "term": "thirsty",
+      "meaning": "khát",
+      "category": "feelings",
+      "example": {
+        "text": "I'm thirsty. I'd like some water.",
+        "meaning": "Tôi khát. Tôi muốn một ít nước."
+      }
+    },
+    {
+      "id": "en-w090",
+      "term": "worried",
+      "meaning": "lo lắng",
+      "category": "feelings",
+      "example": {
+        "text": "I'm worried about the test.",
+        "meaning": "Tôi lo lắng về bài kiểm tra."
+      }
+    },
+    {
+      "id": "en-w091",
+      "term": "excited",
+      "meaning": "hào hứng",
+      "category": "feelings",
+      "example": {
+        "text": "I'm excited about the trip.",
+        "meaning": "Tôi hào hứng với chuyến đi."
+      }
+    },
+    {
+      "id": "en-w092",
+      "term": "bored",
+      "meaning": "chán",
+      "category": "feelings",
+      "example": {
+        "text": "I'm bored. Let's go out.",
+        "meaning": "Tôi chán. Mình ra ngoài nhé."
+      }
+    },
+    {
+      "id": "en-w093",
+      "term": "calm",
+      "meaning": "bình tĩnh",
+      "category": "feelings",
+      "example": {
+        "text": "I feel calm here.",
+        "meaning": "Tôi cảm thấy bình tĩnh ở đây."
+      }
+    },
+    {
+      "id": "en-w094",
+      "term": "proud",
+      "meaning": "tự hào",
+      "category": "feelings",
+      "example": {
+        "text": "I'm proud of my work.",
+        "meaning": "Tôi tự hào về công việc mình đã làm."
+      }
+    },
+    {
+      "id": "en-w095",
+      "term": "surprised",
+      "meaning": "ngạc nhiên",
+      "category": "feelings",
+      "example": {
+        "text": "I'm surprised to see you here.",
+        "meaning": "Tôi ngạc nhiên khi thấy bạn ở đây."
+      }
+    },
+    {
+      "id": "en-w096",
+      "term": "comfortable",
+      "meaning": "thoải mái",
+      "category": "feelings",
+      "example": {
+        "text": "I feel comfortable here.",
+        "meaning": "Tôi cảm thấy thoải mái ở đây."
+      }
+    },
+    {
+      "id": "en-w097",
+      "term": "lesson",
+      "meaning": "bài học",
+      "category": "study",
+      "example": {
+        "text": "This lesson is short.",
+        "meaning": "Bài học này ngắn."
+      }
+    },
+    {
+      "id": "en-w098",
+      "term": "course",
+      "meaning": "khóa học",
+      "category": "study",
+      "example": {
+        "text": "I like this course.",
+        "meaning": "Tôi thích khóa học này."
+      }
+    },
+    {
+      "id": "en-w099",
+      "term": "question",
+      "meaning": "câu hỏi",
+      "category": "study",
+      "example": {
+        "text": "I have a question.",
+        "meaning": "Tôi có một câu hỏi."
+      }
+    },
+    {
+      "id": "en-w100",
+      "term": "answer",
+      "meaning": "câu trả lời",
+      "category": "study",
+      "example": {
+        "text": "Please write your answer.",
+        "meaning": "Làm ơn viết câu trả lời của bạn."
+      }
+    },
+    {
+      "id": "en-w101",
+      "term": "word",
+      "meaning": "từ",
+      "category": "study",
+      "example": {
+        "text": "What does this word mean?",
+        "meaning": "Từ này có nghĩa là gì?"
+      }
+    },
+    {
+      "id": "en-w102",
+      "term": "sentence",
+      "meaning": "câu",
+      "category": "study",
+      "example": {
+        "text": "This sentence is easy.",
+        "meaning": "Câu này dễ."
+      }
+    },
+    {
+      "id": "en-w103",
+      "term": "meaning",
+      "meaning": "nghĩa của từ hoặc câu",
+      "category": "study",
+      "example": {
+        "text": "What is the meaning of this word?",
+        "meaning": "Nghĩa của từ này là gì?"
+      }
+    },
+    {
+      "id": "en-w104",
+      "term": "homework",
+      "meaning": "bài tập về nhà",
+      "category": "study",
+      "example": {
+        "text": "I do my homework after dinner.",
+        "meaning": "Tôi làm bài tập về nhà sau bữa tối."
+      }
+    },
+    {
+      "id": "en-w105",
+      "term": "practice",
+      "meaning": "luyện tập",
+      "category": "study",
+      "example": {
+        "text": "Let's practice together.",
+        "meaning": "Mình cùng luyện tập nhé."
+      }
+    },
+    {
+      "id": "en-w106",
+      "term": "repeat",
+      "meaning": "lặp lại",
+      "category": "study",
+      "example": {
+        "text": "Please repeat that.",
+        "meaning": "Làm ơn lặp lại câu đó."
+      }
+    },
+    {
+      "id": "en-w107",
+      "term": "understand",
+      "meaning": "hiểu",
+      "category": "study",
+      "example": {
+        "text": "I understand the question.",
+        "meaning": "Tôi hiểu câu hỏi."
+      }
+    },
+    {
+      "id": "en-w108",
+      "term": "remember",
+      "meaning": "ghi nhớ",
+      "category": "study",
+      "example": {
+        "text": "I remember your name.",
+        "meaning": "Tôi nhớ tên bạn."
+      }
+    },
+    {
+      "id": "en-w109",
+      "term": "bus",
+      "meaning": "xe buýt",
+      "category": "travel",
+      "example": {
+        "text": "I go by bus.",
+        "meaning": "Tôi đi bằng xe buýt."
+      }
+    },
+    {
+      "id": "en-w110",
+      "term": "train",
+      "meaning": "tàu hỏa",
+      "category": "travel",
+      "example": {
+        "text": "The train leaves at ten.",
+        "meaning": "Tàu hỏa khởi hành lúc mười giờ."
+      }
+    },
+    {
+      "id": "en-w111",
+      "term": "taxi",
+      "meaning": "xe taxi",
+      "category": "travel",
+      "example": {
+        "text": "Let's take a taxi.",
+        "meaning": "Mình đi taxi nhé."
+      }
+    },
+    {
+      "id": "en-w112",
+      "term": "ticket",
+      "meaning": "vé",
+      "category": "travel",
+      "example": {
+        "text": "I'd like one ticket.",
+        "meaning": "Tôi muốn một vé."
+      }
+    },
+    {
+      "id": "en-w113",
+      "term": "airport",
+      "meaning": "sân bay",
+      "category": "travel",
+      "example": {
+        "text": "The airport is far from here.",
+        "meaning": "Sân bay ở xa đây."
+      }
+    },
+    {
+      "id": "en-w114",
+      "term": "bus stop",
+      "meaning": "điểm dừng xe buýt",
+      "category": "travel",
+      "example": {
+        "text": "Where is the bus stop?",
+        "meaning": "Điểm dừng xe buýt ở đâu?"
+      }
+    },
+    {
+      "id": "en-w115",
+      "term": "left",
+      "meaning": "bên trái (hướng đi)",
+      "category": "travel",
+      "example": {
+        "text": "Turn left at the café.",
+        "meaning": "Rẽ trái ở quán cà phê."
+      }
+    },
+    {
+      "id": "en-w116",
+      "term": "right",
+      "meaning": "bên phải (hướng đi)",
+      "category": "travel",
+      "example": {
+        "text": "Turn right at the school.",
+        "meaning": "Rẽ phải ở trường học."
+      }
+    },
+    {
+      "id": "en-w117",
+      "term": "straight",
+      "meaning": "thẳng (hướng đi)",
+      "category": "travel",
+      "example": {
+        "text": "Go straight.",
+        "meaning": "Đi thẳng."
+      }
+    },
+    {
+      "id": "en-w118",
+      "term": "map",
+      "meaning": "bản đồ",
+      "category": "travel",
+      "example": {
+        "text": "Can I see the map?",
+        "meaning": "Tôi xem bản đồ được không?"
+      }
+    },
+    {
+      "id": "en-w119",
+      "term": "where",
+      "meaning": "ở đâu",
+      "category": "travel",
+      "example": {
+        "text": "Where is the hotel?",
+        "meaning": "Khách sạn ở đâu?"
+      }
+    },
+    {
+      "id": "en-w120",
+      "term": "how much",
+      "meaning": "bao nhiêu tiền (hỏi giá)",
+      "category": "travel",
+      "example": {
+        "text": "How much is a ticket?",
+        "meaning": "Một vé giá bao nhiêu?"
+      }
+    }
+  ],
+  "zh": [
+    {
+      "id": "zh-w001",
+      "term": "你好",
+      "reading": "nǐ hǎo",
+      "meaning": "Xin chào",
+      "category": "greetings",
+      "example": {
+        "text": "你好，我叫安。",
+        "reading": "Nǐ hǎo, wǒ jiào Ān.",
+        "meaning": "Xin chào, tôi tên là An."
+      }
+    },
+    {
+      "id": "zh-w002",
+      "term": "您好",
+      "reading": "nín hǎo",
+      "meaning": "Xin chào (lịch sự)",
+      "category": "greetings",
+      "example": {
+        "text": "老师，您好！",
+        "reading": "Lǎoshī, nín hǎo!",
+        "meaning": "Em chào thầy / cô ạ!"
+      }
+    },
+    {
+      "id": "zh-w003",
+      "term": "早上好",
+      "reading": "zǎoshang hǎo",
+      "meaning": "Chào buổi sáng",
+      "category": "greetings",
+      "example": {
+        "text": "早上好，妈妈！",
+        "reading": "Zǎoshang hǎo, māma!",
+        "meaning": "Chào buổi sáng, mẹ!"
+      }
+    },
+    {
+      "id": "zh-w004",
+      "term": "下午好",
+      "reading": "xiàwǔ hǎo",
+      "meaning": "Chào buổi chiều",
+      "category": "greetings",
+      "example": {
+        "text": "下午好，老师！",
+        "reading": "Xiàwǔ hǎo, lǎoshī!",
+        "meaning": "Em chào thầy / cô buổi chiều ạ!"
+      }
+    },
+    {
+      "id": "zh-w005",
+      "term": "晚上好",
+      "reading": "wǎnshang hǎo",
+      "meaning": "Chào buổi tối",
+      "category": "greetings",
+      "example": {
+        "text": "晚上好，朋友们！",
+        "reading": "Wǎnshang hǎo, péngyoumen!",
+        "meaning": "Chào buổi tối, các bạn!"
+      }
+    },
+    {
+      "id": "zh-w006",
+      "term": "再见",
+      "reading": "zàijiàn",
+      "meaning": "Tạm biệt",
+      "category": "greetings",
+      "example": {
+        "text": "再见，明天见！",
+        "reading": "Zàijiàn, míngtiān jiàn!",
+        "meaning": "Tạm biệt, hẹn gặp ngày mai!"
+      }
+    },
+    {
+      "id": "zh-w007",
+      "term": "谢谢",
+      "reading": "xièxie",
+      "meaning": "Cảm ơn",
+      "category": "greetings",
+      "example": {
+        "text": "谢谢你的帮助。",
+        "reading": "Xièxie nǐ de bāngzhù.",
+        "meaning": "Cảm ơn sự giúp đỡ của bạn."
+      }
+    },
+    {
+      "id": "zh-w008",
+      "term": "不客气",
+      "reading": "bú kèqi",
+      "meaning": "Không có gì (đáp lời cảm ơn)",
+      "category": "greetings",
+      "example": {
+        "text": "不客气！",
+        "reading": "Bú kèqi!",
+        "meaning": "Không có gì!"
+      }
+    },
+    {
+      "id": "zh-w009",
+      "term": "对不起",
+      "reading": "duìbuqǐ",
+      "meaning": "Xin lỗi",
+      "category": "greetings",
+      "example": {
+        "text": "对不起，我来晚了。",
+        "reading": "Duìbuqǐ, wǒ lái wǎn le.",
+        "meaning": "Xin lỗi, tôi đến muộn rồi."
+      }
+    },
+    {
+      "id": "zh-w010",
+      "term": "没关系",
+      "reading": "méi guānxi",
+      "meaning": "Không sao (đáp lời xin lỗi)",
+      "category": "greetings",
+      "example": {
+        "text": "没关系，请坐。",
+        "reading": "Méi guānxi, qǐng zuò.",
+        "meaning": "Không sao, mời ngồi."
+      }
+    },
+    {
+      "id": "zh-w011",
+      "term": "请",
+      "reading": "qǐng",
+      "meaning": "Làm ơn / xin mời",
+      "category": "greetings",
+      "example": {
+        "text": "请说慢一点。",
+        "reading": "Qǐng shuō màn yìdiǎn.",
+        "meaning": "Làm ơn nói chậm một chút."
+      }
+    },
+    {
+      "id": "zh-w012",
+      "term": "欢迎",
+      "reading": "huānyíng",
+      "meaning": "Chào mừng",
+      "category": "greetings",
+      "example": {
+        "text": "欢迎你！",
+        "reading": "Huānyíng nǐ!",
+        "meaning": "Chào mừng bạn!"
+      }
+    },
+    {
+      "id": "zh-w013",
+      "term": "我",
+      "reading": "wǒ",
+      "meaning": "Tôi",
+      "category": "people",
+      "example": {
+        "text": "我学中文。",
+        "reading": "Wǒ xué Zhōngwén.",
+        "meaning": "Tôi học tiếng Trung."
+      }
+    },
+    {
+      "id": "zh-w014",
+      "term": "你",
+      "reading": "nǐ",
+      "meaning": "Bạn (người đang trò chuyện)",
+      "category": "people",
+      "example": {
+        "text": "你叫什么名字？",
+        "reading": "Nǐ jiào shénme míngzi?",
+        "meaning": "Bạn tên là gì?"
+      }
+    },
+    {
+      "id": "zh-w015",
+      "term": "他",
+      "reading": "tā",
+      "meaning": "Anh ấy",
+      "category": "people",
+      "example": {
+        "text": "他是学生。",
+        "reading": "Tā shì xuésheng.",
+        "meaning": "Anh ấy là sinh viên / học sinh."
+      }
+    },
+    {
+      "id": "zh-w016",
+      "term": "她",
+      "reading": "tā",
+      "meaning": "Cô ấy",
+      "category": "people",
+      "example": {
+        "text": "她喜欢茶。",
+        "reading": "Tā xǐhuan chá.",
+        "meaning": "Cô ấy thích trà."
+      }
+    },
+    {
+      "id": "zh-w017",
+      "term": "我们",
+      "reading": "wǒmen",
+      "meaning": "Chúng tôi / chúng ta",
+      "category": "people",
+      "example": {
+        "text": "我们三点见。",
+        "reading": "Wǒmen sān diǎn jiàn.",
+        "meaning": "Chúng ta gặp lúc ba giờ."
+      }
+    },
+    {
+      "id": "zh-w018",
+      "term": "朋友",
+      "reading": "péngyou",
+      "meaning": "Người bạn",
+      "category": "people",
+      "example": {
+        "text": "这是我的朋友。",
+        "reading": "Zhè shì wǒ de péngyou.",
+        "meaning": "Đây là bạn của tôi."
+      }
+    },
+    {
+      "id": "zh-w019",
+      "term": "家人",
+      "reading": "jiārén",
+      "meaning": "Người thân trong gia đình",
+      "category": "people",
+      "example": {
+        "text": "我爱我的家人。",
+        "reading": "Wǒ ài wǒ de jiārén.",
+        "meaning": "Tôi yêu gia đình mình."
+      }
+    },
+    {
+      "id": "zh-w020",
+      "term": "妈妈",
+      "reading": "māma",
+      "meaning": "Mẹ",
+      "category": "people",
+      "example": {
+        "text": "这是我妈妈。",
+        "reading": "Zhè shì wǒ māma.",
+        "meaning": "Đây là mẹ tôi."
+      }
+    },
+    {
+      "id": "zh-w021",
+      "term": "爸爸",
+      "reading": "bàba",
+      "meaning": "Bố",
+      "category": "people",
+      "example": {
+        "text": "我爸爸在家。",
+        "reading": "Wǒ bàba zài jiā.",
+        "meaning": "Bố tôi ở nhà."
+      }
+    },
+    {
+      "id": "zh-w022",
+      "term": "哥哥",
+      "reading": "gēge",
+      "meaning": "Anh trai",
+      "category": "people",
+      "example": {
+        "text": "我有一个哥哥。",
+        "reading": "Wǒ yǒu yí ge gēge.",
+        "meaning": "Tôi có một anh trai."
+      }
+    },
+    {
+      "id": "zh-w023",
+      "term": "妹妹",
+      "reading": "mèimei",
+      "meaning": "Em gái",
+      "category": "people",
+      "example": {
+        "text": "我妹妹是学生。",
+        "reading": "Wǒ mèimei shì xuésheng.",
+        "meaning": "Em gái tôi là học sinh / sinh viên."
+      }
+    },
+    {
+      "id": "zh-w024",
+      "term": "老师",
+      "reading": "lǎoshī",
+      "meaning": "Giáo viên",
+      "category": "people",
+      "example": {
+        "text": "她是老师。",
+        "reading": "Tā shì lǎoshī.",
+        "meaning": "Cô ấy là giáo viên."
+      }
+    },
+    {
+      "id": "zh-w025",
+      "term": "一",
+      "reading": "yī",
+      "meaning": "Một (1)",
+      "category": "numbers",
+      "example": {
+        "text": "我要一杯水。",
+        "reading": "Wǒ yào yì bēi shuǐ.",
+        "meaning": "Tôi muốn một cốc nước."
+      }
+    },
+    {
+      "id": "zh-w026",
+      "term": "二",
+      "reading": "èr",
+      "meaning": "Hai (2)",
+      "category": "numbers",
+      "example": {
+        "text": "今天星期二。",
+        "reading": "Jīntiān xīngqī èr.",
+        "meaning": "Hôm nay là thứ Ba."
+      }
+    },
+    {
+      "id": "zh-w027",
+      "term": "三",
+      "reading": "sān",
+      "meaning": "Ba (3)",
+      "category": "numbers",
+      "example": {
+        "text": "我们三点见。",
+        "reading": "Wǒmen sān diǎn jiàn.",
+        "meaning": "Chúng ta gặp lúc ba giờ."
+      }
+    },
+    {
+      "id": "zh-w028",
+      "term": "四",
+      "reading": "sì",
+      "meaning": "Bốn (4)",
+      "category": "numbers",
+      "example": {
+        "text": "现在四点。",
+        "reading": "Xiànzài sì diǎn.",
+        "meaning": "Bây giờ là bốn giờ."
+      }
+    },
+    {
+      "id": "zh-w029",
+      "term": "五",
+      "reading": "wǔ",
+      "meaning": "Năm (5)",
+      "category": "numbers",
+      "example": {
+        "text": "这个五块钱。",
+        "reading": "Zhège wǔ kuài qián.",
+        "meaning": "Cái này năm tệ."
+      }
+    },
+    {
+      "id": "zh-w030",
+      "term": "六",
+      "reading": "liù",
+      "meaning": "Sáu (6)",
+      "category": "numbers",
+      "example": {
+        "text": "我六点起床。",
+        "reading": "Wǒ liù diǎn qǐchuáng.",
+        "meaning": "Tôi thức dậy lúc sáu giờ."
+      }
+    },
+    {
+      "id": "zh-w031",
+      "term": "七",
+      "reading": "qī",
+      "meaning": "Bảy (7)",
+      "category": "numbers",
+      "example": {
+        "text": "我们七点见。",
+        "reading": "Wǒmen qī diǎn jiàn.",
+        "meaning": "Chúng ta gặp lúc bảy giờ."
+      }
+    },
+    {
+      "id": "zh-w032",
+      "term": "八",
+      "reading": "bā",
+      "meaning": "Tám (8)",
+      "category": "numbers",
+      "example": {
+        "text": "我八点上班。",
+        "reading": "Wǒ bā diǎn shàngbān.",
+        "meaning": "Tôi đi làm lúc tám giờ."
+      }
+    },
+    {
+      "id": "zh-w033",
+      "term": "九",
+      "reading": "jiǔ",
+      "meaning": "Chín (9)",
+      "category": "numbers",
+      "example": {
+        "text": "现在九点。",
+        "reading": "Xiànzài jiǔ diǎn.",
+        "meaning": "Bây giờ là chín giờ."
+      }
+    },
+    {
+      "id": "zh-w034",
+      "term": "十",
+      "reading": "shí",
+      "meaning": "Mười (10)",
+      "category": "numbers",
+      "example": {
+        "text": "一共十块钱。",
+        "reading": "Yígòng shí kuài qián.",
+        "meaning": "Tổng cộng mười tệ."
+      }
+    },
+    {
+      "id": "zh-w035",
+      "term": "百",
+      "reading": "bǎi",
+      "meaning": "Trăm (100)",
+      "category": "numbers",
+      "example": {
+        "text": "这本书一百块钱。",
+        "reading": "Zhè běn shū yì bǎi kuài qián.",
+        "meaning": "Cuốn sách này một trăm tệ."
+      }
+    },
+    {
+      "id": "zh-w036",
+      "term": "千",
+      "reading": "qiān",
+      "meaning": "Nghìn (1.000)",
+      "category": "numbers",
+      "example": {
+        "text": "我走了一千米。",
+        "reading": "Wǒ zǒu le yì qiān mǐ.",
+        "meaning": "Tôi đã đi bộ một nghìn mét."
+      }
+    },
+    {
+      "id": "zh-w037",
+      "term": "水",
+      "reading": "shuǐ",
+      "meaning": "Nước uống",
+      "category": "food",
+      "example": {
+        "text": "我想喝水。",
+        "reading": "Wǒ xiǎng hē shuǐ.",
+        "meaning": "Tôi muốn uống nước."
+      }
+    },
+    {
+      "id": "zh-w038",
+      "term": "茶",
+      "reading": "chá",
+      "meaning": "Trà",
+      "category": "food",
+      "example": {
+        "text": "我喜欢茶。",
+        "reading": "Wǒ xǐhuan chá.",
+        "meaning": "Tôi thích trà."
+      }
+    },
+    {
+      "id": "zh-w039",
+      "term": "咖啡",
+      "reading": "kāfēi",
+      "meaning": "Cà phê",
+      "category": "food",
+      "example": {
+        "text": "我不喝咖啡。",
+        "reading": "Wǒ bù hē kāfēi.",
+        "meaning": "Tôi không uống cà phê."
+      }
+    },
+    {
+      "id": "zh-w040",
+      "term": "牛奶",
+      "reading": "niúnǎi",
+      "meaning": "Sữa bò",
+      "category": "food",
+      "example": {
+        "text": "我要一杯牛奶。",
+        "reading": "Wǒ yào yì bēi niúnǎi.",
+        "meaning": "Tôi muốn một cốc sữa bò."
+      }
+    },
+    {
+      "id": "zh-w041",
+      "term": "米饭",
+      "reading": "mǐfàn",
+      "meaning": "Cơm",
+      "category": "food",
+      "example": {
+        "text": "我想吃米饭。",
+        "reading": "Wǒ xiǎng chī mǐfàn.",
+        "meaning": "Tôi muốn ăn cơm."
+      }
+    },
+    {
+      "id": "zh-w042",
+      "term": "面条",
+      "reading": "miàntiáo",
+      "meaning": "Mì sợi",
+      "category": "food",
+      "example": {
+        "text": "这碗面条很好吃。",
+        "reading": "Zhè wǎn miàntiáo hěn hǎochī.",
+        "meaning": "Bát mì này rất ngon."
+      }
+    },
+    {
+      "id": "zh-w043",
+      "term": "鸡蛋",
+      "reading": "jīdàn",
+      "meaning": "Trứng gà",
+      "category": "food",
+      "example": {
+        "text": "我要两个鸡蛋。",
+        "reading": "Wǒ yào liǎng ge jīdàn.",
+        "meaning": "Tôi muốn hai quả trứng gà."
+      }
+    },
+    {
+      "id": "zh-w044",
+      "term": "面包",
+      "reading": "miànbāo",
+      "meaning": "Bánh mì",
+      "category": "food",
+      "example": {
+        "text": "我买了一个面包。",
+        "reading": "Wǒ mǎi le yí ge miànbāo.",
+        "meaning": "Tôi đã mua một chiếc bánh mì."
+      }
+    },
+    {
+      "id": "zh-w045",
+      "term": "苹果",
+      "reading": "píngguǒ",
+      "meaning": "Táo",
+      "category": "food",
+      "example": {
+        "text": "这个苹果很甜。",
+        "reading": "Zhège píngguǒ hěn tián.",
+        "meaning": "Quả táo này rất ngọt."
+      }
+    },
+    {
+      "id": "zh-w046",
+      "term": "香蕉",
+      "reading": "xiāngjiāo",
+      "meaning": "Chuối",
+      "category": "food",
+      "example": {
+        "text": "我喜欢吃香蕉。",
+        "reading": "Wǒ xǐhuan chī xiāngjiāo.",
+        "meaning": "Tôi thích ăn chuối."
+      }
+    },
+    {
+      "id": "zh-w047",
+      "term": "鱼",
+      "reading": "yú",
+      "meaning": "Cá",
+      "category": "food",
+      "example": {
+        "text": "我不吃鱼。",
+        "reading": "Wǒ bù chī yú.",
+        "meaning": "Tôi không ăn cá."
+      }
+    },
+    {
+      "id": "zh-w048",
+      "term": "蔬菜",
+      "reading": "shūcài",
+      "meaning": "Rau",
+      "category": "food",
+      "example": {
+        "text": "我喜欢吃蔬菜。",
+        "reading": "Wǒ xǐhuan chī shūcài.",
+        "meaning": "Tôi thích ăn rau."
+      }
+    },
+    {
+      "id": "zh-w049",
+      "term": "家",
+      "reading": "jiā",
+      "meaning": "Nhà",
+      "category": "places",
+      "example": {
+        "text": "我到家了。",
+        "reading": "Wǒ dào jiā le.",
+        "meaning": "Tôi đã về đến nhà rồi."
+      }
+    },
+    {
+      "id": "zh-w050",
+      "term": "学校",
+      "reading": "xuéxiào",
+      "meaning": "Trường học",
+      "category": "places",
+      "example": {
+        "text": "我去学校。",
+        "reading": "Wǒ qù xuéxiào.",
+        "meaning": "Tôi đi đến trường."
+      }
+    },
+    {
+      "id": "zh-w051",
+      "term": "公司",
+      "reading": "gōngsī",
+      "meaning": "Công ty",
+      "category": "places",
+      "example": {
+        "text": "我在公司工作。",
+        "reading": "Wǒ zài gōngsī gōngzuò.",
+        "meaning": "Tôi làm việc ở một công ty."
+      }
+    },
+    {
+      "id": "zh-w052",
+      "term": "商店",
+      "reading": "shāngdiàn",
+      "meaning": "Cửa hàng",
+      "category": "places",
+      "example": {
+        "text": "商店在哪儿？",
+        "reading": "Shāngdiàn zài nǎr?",
+        "meaning": "Cửa hàng ở đâu?"
+      }
+    },
+    {
+      "id": "zh-w053",
+      "term": "超市",
+      "reading": "chāoshì",
+      "meaning": "Siêu thị",
+      "category": "places",
+      "example": {
+        "text": "我要去超市。",
+        "reading": "Wǒ yào qù chāoshì.",
+        "meaning": "Tôi muốn đến siêu thị."
+      }
+    },
+    {
+      "id": "zh-w054",
+      "term": "饭店",
+      "reading": "fàndiàn",
+      "meaning": "Nhà hàng / quán ăn",
+      "category": "places",
+      "example": {
+        "text": "这家饭店很好。",
+        "reading": "Zhè jiā fàndiàn hěn hǎo.",
+        "meaning": "Nhà hàng này rất tốt."
+      }
+    },
+    {
+      "id": "zh-w055",
+      "term": "咖啡馆",
+      "reading": "kāfēiguǎn",
+      "meaning": "Quán cà phê",
+      "category": "places",
+      "example": {
+        "text": "咖啡馆在左边。",
+        "reading": "Kāfēiguǎn zài zuǒbian.",
+        "meaning": "Quán cà phê ở bên trái."
+      }
+    },
+    {
+      "id": "zh-w056",
+      "term": "公园",
+      "reading": "gōngyuán",
+      "meaning": "Công viên",
+      "category": "places",
+      "example": {
+        "text": "明天我想去公园。",
+        "reading": "Míngtiān wǒ xiǎng qù gōngyuán.",
+        "meaning": "Ngày mai tôi muốn đến công viên."
+      }
+    },
+    {
+      "id": "zh-w057",
+      "term": "银行",
+      "reading": "yínháng",
+      "meaning": "Ngân hàng",
+      "category": "places",
+      "example": {
+        "text": "银行在右边。",
+        "reading": "Yínháng zài yòubian.",
+        "meaning": "Ngân hàng ở bên phải."
+      }
+    },
+    {
+      "id": "zh-w058",
+      "term": "厕所",
+      "reading": "cèsuǒ",
+      "meaning": "Nhà vệ sinh",
+      "category": "places",
+      "example": {
+        "text": "请问，厕所在哪儿？",
+        "reading": "Qǐngwèn, cèsuǒ zài nǎr?",
+        "meaning": "Xin hỏi, nhà vệ sinh ở đâu?"
+      }
+    },
+    {
+      "id": "zh-w059",
+      "term": "书店",
+      "reading": "shūdiàn",
+      "meaning": "Hiệu sách",
+      "category": "places",
+      "example": {
+        "text": "昨天我去了书店。",
+        "reading": "Zuótiān wǒ qù le shūdiàn.",
+        "meaning": "Hôm qua tôi đã đến hiệu sách."
+      }
+    },
+    {
+      "id": "zh-w060",
+      "term": "医院",
+      "reading": "yīyuàn",
+      "meaning": "Bệnh viện",
+      "category": "places",
+      "example": {
+        "text": "医院在哪儿？",
+        "reading": "Yīyuàn zài nǎr?",
+        "meaning": "Bệnh viện ở đâu?"
+      }
+    },
+    {
+      "id": "zh-w061",
+      "term": "今天",
+      "reading": "jīntiān",
+      "meaning": "Hôm nay",
+      "category": "time",
+      "example": {
+        "text": "我今天有空。",
+        "reading": "Wǒ jīntiān yǒu kòng.",
+        "meaning": "Hôm nay tôi rảnh."
+      }
+    },
+    {
+      "id": "zh-w062",
+      "term": "明天",
+      "reading": "míngtiān",
+      "meaning": "Ngày mai",
+      "category": "time",
+      "example": {
+        "text": "明天见！",
+        "reading": "Míngtiān jiàn!",
+        "meaning": "Hẹn gặp ngày mai!"
+      }
+    },
+    {
+      "id": "zh-w063",
+      "term": "昨天",
+      "reading": "zuótiān",
+      "meaning": "Hôm qua",
+      "category": "time",
+      "example": {
+        "text": "昨天我去了公园。",
+        "reading": "Zuótiān wǒ qù le gōngyuán.",
+        "meaning": "Hôm qua tôi đã đến công viên."
+      }
+    },
+    {
+      "id": "zh-w064",
+      "term": "现在",
+      "reading": "xiànzài",
+      "meaning": "Bây giờ",
+      "category": "time",
+      "example": {
+        "text": "现在几点？",
+        "reading": "Xiànzài jǐ diǎn?",
+        "meaning": "Bây giờ là mấy giờ?"
+      }
+    },
+    {
+      "id": "zh-w065",
+      "term": "早上",
+      "reading": "zǎoshang",
+      "meaning": "Buổi sáng",
+      "category": "time",
+      "example": {
+        "text": "我早上喝茶。",
+        "reading": "Wǒ zǎoshang hē chá.",
+        "meaning": "Tôi uống trà vào buổi sáng."
+      }
+    },
+    {
+      "id": "zh-w066",
+      "term": "中午",
+      "reading": "zhōngwǔ",
+      "meaning": "Buổi trưa",
+      "category": "time",
+      "example": {
+        "text": "我们中午吃饭。",
+        "reading": "Wǒmen zhōngwǔ chīfàn.",
+        "meaning": "Chúng ta ăn cơm vào buổi trưa."
+      }
+    },
+    {
+      "id": "zh-w067",
+      "term": "下午",
+      "reading": "xiàwǔ",
+      "meaning": "Buổi chiều",
+      "category": "time",
+      "example": {
+        "text": "我们下午三点见。",
+        "reading": "Wǒmen xiàwǔ sān diǎn jiàn.",
+        "meaning": "Chúng ta gặp lúc ba giờ chiều."
+      }
+    },
+    {
+      "id": "zh-w068",
+      "term": "晚上",
+      "reading": "wǎnshang",
+      "meaning": "Buổi tối",
+      "category": "time",
+      "example": {
+        "text": "我晚上十点睡觉。",
+        "reading": "Wǒ wǎnshang shí diǎn shuìjiào.",
+        "meaning": "Tôi đi ngủ lúc mười giờ tối."
+      }
+    },
+    {
+      "id": "zh-w069",
+      "term": "星期",
+      "reading": "xīngqī",
+      "meaning": "Tuần (cũng dùng để gọi tên thứ)",
+      "category": "time",
+      "example": {
+        "text": "今天星期几？",
+        "reading": "Jīntiān xīngqī jǐ?",
+        "meaning": "Hôm nay là thứ mấy?"
+      }
+    },
+    {
+      "id": "zh-w070",
+      "term": "周末",
+      "reading": "zhōumò",
+      "meaning": "Cuối tuần",
+      "category": "time",
+      "example": {
+        "text": "周末我有空。",
+        "reading": "Zhōumò wǒ yǒu kòng.",
+        "meaning": "Cuối tuần tôi rảnh."
+      }
+    },
+    {
+      "id": "zh-w071",
+      "term": "分钟",
+      "reading": "fēnzhōng",
+      "meaning": "Phút",
+      "category": "time",
+      "example": {
+        "text": "请等五分钟。",
+        "reading": "Qǐng děng wǔ fēnzhōng.",
+        "meaning": "Làm ơn đợi năm phút."
+      }
+    },
+    {
+      "id": "zh-w072",
+      "term": "小时",
+      "reading": "xiǎoshí",
+      "meaning": "Giờ (đơn vị thời gian)",
+      "category": "time",
+      "example": {
+        "text": "我学了一个小时。",
+        "reading": "Wǒ xué le yí ge xiǎoshí.",
+        "meaning": "Tôi đã học một giờ."
+      }
+    },
+    {
+      "id": "zh-w073",
+      "term": "吃",
+      "reading": "chī",
+      "meaning": "Ăn",
+      "category": "actions",
+      "example": {
+        "text": "你想吃什么？",
+        "reading": "Nǐ xiǎng chī shénme?",
+        "meaning": "Bạn muốn ăn gì?"
+      }
+    },
+    {
+      "id": "zh-w074",
+      "term": "喝",
+      "reading": "hē",
+      "meaning": "Uống",
+      "category": "actions",
+      "example": {
+        "text": "我想喝水。",
+        "reading": "Wǒ xiǎng hē shuǐ.",
+        "meaning": "Tôi muốn uống nước."
+      }
+    },
+    {
+      "id": "zh-w075",
+      "term": "买",
+      "reading": "mǎi",
+      "meaning": "Mua",
+      "category": "actions",
+      "example": {
+        "text": "我想买这本书。",
+        "reading": "Wǒ xiǎng mǎi zhè běn shū.",
+        "meaning": "Tôi muốn mua cuốn sách này."
+      }
+    },
+    {
+      "id": "zh-w076",
+      "term": "看",
+      "reading": "kàn",
+      "meaning": "Nhìn / xem",
+      "category": "actions",
+      "example": {
+        "text": "我在看照片。",
+        "reading": "Wǒ zài kàn zhàopiàn.",
+        "meaning": "Tôi đang xem ảnh."
+      }
+    },
+    {
+      "id": "zh-w077",
+      "term": "听",
+      "reading": "tīng",
+      "meaning": "Nghe",
+      "category": "actions",
+      "example": {
+        "text": "请听我说。",
+        "reading": "Qǐng tīng wǒ shuō.",
+        "meaning": "Làm ơn nghe tôi nói."
+      }
+    },
+    {
+      "id": "zh-w078",
+      "term": "说",
+      "reading": "shuō",
+      "meaning": "Nói",
+      "category": "actions",
+      "example": {
+        "text": "请再说一遍。",
+        "reading": "Qǐng zài shuō yí biàn.",
+        "meaning": "Làm ơn nói lại một lần."
+      }
+    },
+    {
+      "id": "zh-w079",
+      "term": "写",
+      "reading": "xiě",
+      "meaning": "Viết",
+      "category": "actions",
+      "example": {
+        "text": "我在写汉字。",
+        "reading": "Wǒ zài xiě hànzì.",
+        "meaning": "Tôi đang viết chữ Hán."
+      }
+    },
+    {
+      "id": "zh-w080",
+      "term": "读",
+      "reading": "dú",
+      "meaning": "Đọc",
+      "category": "actions",
+      "example": {
+        "text": "我在读书。",
+        "reading": "Wǒ zài dú shū.",
+        "meaning": "Tôi đang đọc sách."
+      }
+    },
+    {
+      "id": "zh-w081",
+      "term": "学",
+      "reading": "xué",
+      "meaning": "Học",
+      "category": "actions",
+      "example": {
+        "text": "我学英语。",
+        "reading": "Wǒ xué Yīngyǔ.",
+        "meaning": "Tôi học tiếng Anh."
+      }
+    },
+    {
+      "id": "zh-w082",
+      "term": "工作",
+      "reading": "gōngzuò",
+      "meaning": "Làm việc",
+      "category": "actions",
+      "example": {
+        "text": "我在公司工作。",
+        "reading": "Wǒ zài gōngsī gōngzuò.",
+        "meaning": "Tôi làm việc ở một công ty."
+      }
+    },
+    {
+      "id": "zh-w083",
+      "term": "休息",
+      "reading": "xiūxi",
+      "meaning": "Nghỉ ngơi",
+      "category": "actions",
+      "example": {
+        "text": "我想休息一下。",
+        "reading": "Wǒ xiǎng xiūxi yíxià.",
+        "meaning": "Tôi muốn nghỉ một chút."
+      }
+    },
+    {
+      "id": "zh-w084",
+      "term": "喜欢",
+      "reading": "xǐhuan",
+      "meaning": "Thích",
+      "category": "actions",
+      "example": {
+        "text": "我喜欢这家店。",
+        "reading": "Wǒ xǐhuan zhè jiā diàn.",
+        "meaning": "Tôi thích quán này."
+      }
+    },
+    {
+      "id": "zh-w085",
+      "term": "高兴",
+      "reading": "gāoxìng",
+      "meaning": "Vui",
+      "category": "feelings",
+      "example": {
+        "text": "我今天很高兴。",
+        "reading": "Wǒ jīntiān hěn gāoxìng.",
+        "meaning": "Hôm nay tôi rất vui."
+      }
+    },
+    {
+      "id": "zh-w086",
+      "term": "累",
+      "reading": "lèi",
+      "meaning": "Mệt",
+      "category": "feelings",
+      "example": {
+        "text": "我有点累。",
+        "reading": "Wǒ yǒudiǎn lèi.",
+        "meaning": "Tôi hơi mệt."
+      }
+    },
+    {
+      "id": "zh-w087",
+      "term": "饿",
+      "reading": "è",
+      "meaning": "Đói",
+      "category": "feelings",
+      "example": {
+        "text": "我饿了。",
+        "reading": "Wǒ è le.",
+        "meaning": "Tôi đói rồi."
+      }
+    },
+    {
+      "id": "zh-w088",
+      "term": "渴",
+      "reading": "kě",
+      "meaning": "Khát",
+      "category": "feelings",
+      "example": {
+        "text": "我有点渴。",
+        "reading": "Wǒ yǒudiǎn kě.",
+        "meaning": "Tôi hơi khát."
+      }
+    },
+    {
+      "id": "zh-w089",
+      "term": "忙",
+      "reading": "máng",
+      "meaning": "Bận",
+      "category": "feelings",
+      "example": {
+        "text": "我今天很忙。",
+        "reading": "Wǒ jīntiān hěn máng.",
+        "meaning": "Hôm nay tôi rất bận."
+      }
+    },
+    {
+      "id": "zh-w090",
+      "term": "冷",
+      "reading": "lěng",
+      "meaning": "Lạnh",
+      "category": "feelings",
+      "example": {
+        "text": "外面很冷。",
+        "reading": "Wàimian hěn lěng.",
+        "meaning": "Bên ngoài rất lạnh."
+      }
+    },
+    {
+      "id": "zh-w091",
+      "term": "热",
+      "reading": "rè",
+      "meaning": "Nóng",
+      "category": "feelings",
+      "example": {
+        "text": "今天很热。",
+        "reading": "Jīntiān hěn rè.",
+        "meaning": "Hôm nay trời nóng."
+      }
+    },
+    {
+      "id": "zh-w092",
+      "term": "害怕",
+      "reading": "hàipà",
+      "meaning": "Sợ",
+      "category": "feelings",
+      "example": {
+        "text": "我有点害怕。",
+        "reading": "Wǒ yǒudiǎn hàipà.",
+        "meaning": "Tôi hơi sợ."
+      }
+    },
+    {
+      "id": "zh-w093",
+      "term": "紧张",
+      "reading": "jǐnzhāng",
+      "meaning": "Căng thẳng",
+      "category": "feelings",
+      "example": {
+        "text": "我有点紧张。",
+        "reading": "Wǒ yǒudiǎn jǐnzhāng.",
+        "meaning": "Tôi hơi căng thẳng."
+      }
+    },
+    {
+      "id": "zh-w094",
+      "term": "难过",
+      "reading": "nánguò",
+      "meaning": "Buồn",
+      "category": "feelings",
+      "example": {
+        "text": "她有点难过。",
+        "reading": "Tā yǒudiǎn nánguò.",
+        "meaning": "Cô ấy hơi buồn."
+      }
+    },
+    {
+      "id": "zh-w095",
+      "term": "舒服",
+      "reading": "shūfu",
+      "meaning": "Dễ chịu",
+      "category": "feelings",
+      "example": {
+        "text": "这里很舒服。",
+        "reading": "Zhèlǐ hěn shūfu.",
+        "meaning": "Ở đây rất dễ chịu."
+      }
+    },
+    {
+      "id": "zh-w096",
+      "term": "安静",
+      "reading": "ānjìng",
+      "meaning": "Yên tĩnh",
+      "category": "feelings",
+      "example": {
+        "text": "这个公园很安静。",
+        "reading": "Zhège gōngyuán hěn ānjìng.",
+        "meaning": "Công viên này rất yên tĩnh."
+      }
+    },
+    {
+      "id": "zh-w097",
+      "term": "学生",
+      "reading": "xuésheng",
+      "meaning": "Học sinh / sinh viên",
+      "category": "study",
+      "example": {
+        "text": "我是学生。",
+        "reading": "Wǒ shì xuésheng.",
+        "meaning": "Tôi là học sinh / sinh viên."
+      }
+    },
+    {
+      "id": "zh-w098",
+      "term": "中文",
+      "reading": "zhōngwén",
+      "meaning": "Tiếng Trung",
+      "category": "study",
+      "example": {
+        "text": "我会说一点中文。",
+        "reading": "Wǒ huì shuō yìdiǎn Zhōngwén.",
+        "meaning": "Tôi biết nói một chút tiếng Trung."
+      }
+    },
+    {
+      "id": "zh-w099",
+      "term": "英语",
+      "reading": "yīngyǔ",
+      "meaning": "Tiếng Anh",
+      "category": "study",
+      "example": {
+        "text": "我想学英语。",
+        "reading": "Wǒ xiǎng xué Yīngyǔ.",
+        "meaning": "Tôi muốn học tiếng Anh."
+      }
+    },
+    {
+      "id": "zh-w100",
+      "term": "书",
+      "reading": "shū",
+      "meaning": "Sách",
+      "category": "study",
+      "example": {
+        "text": "这本书很好。",
+        "reading": "Zhè běn shū hěn hǎo.",
+        "meaning": "Cuốn sách này rất hay."
+      }
+    },
+    {
+      "id": "zh-w101",
+      "term": "笔",
+      "reading": "bǐ",
+      "meaning": "Bút",
+      "category": "study",
+      "example": {
+        "text": "你有笔吗？",
+        "reading": "Nǐ yǒu bǐ ma?",
+        "meaning": "Bạn có bút không?"
+      }
+    },
+    {
+      "id": "zh-w102",
+      "term": "本子",
+      "reading": "běnzi",
+      "meaning": "Vở",
+      "category": "study",
+      "example": {
+        "text": "我买了一个本子。",
+        "reading": "Wǒ mǎi le yí ge běnzi.",
+        "meaning": "Tôi đã mua một quyển vở."
+      }
+    },
+    {
+      "id": "zh-w103",
+      "term": "汉字",
+      "reading": "hànzì",
+      "meaning": "Chữ Hán",
+      "category": "study",
+      "example": {
+        "text": "这个汉字怎么读？",
+        "reading": "Zhège hànzì zěnme dú?",
+        "meaning": "Chữ Hán này đọc thế nào?"
+      }
+    },
+    {
+      "id": "zh-w104",
+      "term": "拼音",
+      "reading": "pīnyīn",
+      "meaning": "Pinyin (ghi âm tiếng Trung)",
+      "category": "study",
+      "example": {
+        "text": "请看拼音。",
+        "reading": "Qǐng kàn pīnyīn.",
+        "meaning": "Làm ơn xem pinyin."
+      }
+    },
+    {
+      "id": "zh-w105",
+      "term": "问题",
+      "reading": "wèntí",
+      "meaning": "Câu hỏi",
+      "category": "study",
+      "example": {
+        "text": "我有一个问题。",
+        "reading": "Wǒ yǒu yí ge wèntí.",
+        "meaning": "Tôi có một câu hỏi."
+      }
+    },
+    {
+      "id": "zh-w106",
+      "term": "答案",
+      "reading": "dá'àn",
+      "meaning": "Đáp án",
+      "category": "study",
+      "example": {
+        "text": "这个答案对吗？",
+        "reading": "Zhège dá'àn duì ma?",
+        "meaning": "Đáp án này đúng không?"
+      }
+    },
+    {
+      "id": "zh-w107",
+      "term": "课",
+      "reading": "kè",
+      "meaning": "Tiết học",
+      "category": "study",
+      "example": {
+        "text": "我今天有课。",
+        "reading": "Wǒ jīntiān yǒu kè.",
+        "meaning": "Hôm nay tôi có tiết học."
+      }
+    },
+    {
+      "id": "zh-w108",
+      "term": "作业",
+      "reading": "zuòyè",
+      "meaning": "Bài tập về nhà",
+      "category": "study",
+      "example": {
+        "text": "我在做作业。",
+        "reading": "Wǒ zài zuò zuòyè.",
+        "meaning": "Tôi đang làm bài tập về nhà."
+      }
+    },
+    {
+      "id": "zh-w109",
+      "term": "车",
+      "reading": "chē",
+      "meaning": "Xe",
+      "category": "travel",
+      "example": {
+        "text": "我不会开车。",
+        "reading": "Wǒ bú huì kāichē.",
+        "meaning": "Tôi không biết lái xe."
+      }
+    },
+    {
+      "id": "zh-w110",
+      "term": "公交车",
+      "reading": "gōngjiāochē",
+      "meaning": "Xe buýt",
+      "category": "travel",
+      "example": {
+        "text": "我坐公交车去学校。",
+        "reading": "Wǒ zuò gōngjiāochē qù xuéxiào.",
+        "meaning": "Tôi đi xe buýt đến trường."
+      }
+    },
+    {
+      "id": "zh-w111",
+      "term": "地铁",
+      "reading": "dìtiě",
+      "meaning": "Tàu điện ngầm",
+      "category": "travel",
+      "example": {
+        "text": "我坐地铁去公园。",
+        "reading": "Wǒ zuò dìtiě qù gōngyuán.",
+        "meaning": "Tôi đi tàu điện ngầm đến công viên."
+      }
+    },
+    {
+      "id": "zh-w112",
+      "term": "出租车",
+      "reading": "chūzūchē",
+      "meaning": "Taxi",
+      "category": "travel",
+      "example": {
+        "text": "我想坐出租车。",
+        "reading": "Wǒ xiǎng zuò chūzūchē.",
+        "meaning": "Tôi muốn đi taxi."
+      }
+    },
+    {
+      "id": "zh-w113",
+      "term": "火车",
+      "reading": "huǒchē",
+      "meaning": "Tàu hỏa",
+      "category": "travel",
+      "example": {
+        "text": "我坐火车去北京。",
+        "reading": "Wǒ zuò huǒchē qù Běijīng.",
+        "meaning": "Tôi đi tàu hỏa đến Bắc Kinh."
+      }
+    },
+    {
+      "id": "zh-w114",
+      "term": "飞机",
+      "reading": "fēijī",
+      "meaning": "Máy bay",
+      "category": "travel",
+      "example": {
+        "text": "我坐飞机去上海。",
+        "reading": "Wǒ zuò fēijī qù Shànghǎi.",
+        "meaning": "Tôi đi máy bay đến Thượng Hải."
+      }
+    },
+    {
+      "id": "zh-w115",
+      "term": "车站",
+      "reading": "chēzhàn",
+      "meaning": "Trạm xe",
+      "category": "travel",
+      "example": {
+        "text": "车站不远。",
+        "reading": "Chēzhàn bù yuǎn.",
+        "meaning": "Trạm xe không xa."
+      }
+    },
+    {
+      "id": "zh-w116",
+      "term": "机场",
+      "reading": "jīchǎng",
+      "meaning": "Sân bay",
+      "category": "travel",
+      "example": {
+        "text": "机场在哪儿？",
+        "reading": "Jīchǎng zài nǎr?",
+        "meaning": "Sân bay ở đâu?"
+      }
+    },
+    {
+      "id": "zh-w117",
+      "term": "票",
+      "reading": "piào",
+      "meaning": "Vé",
+      "category": "travel",
+      "example": {
+        "text": "我要一张票。",
+        "reading": "Wǒ yào yì zhāng piào.",
+        "meaning": "Tôi muốn một tấm vé."
+      }
+    },
+    {
+      "id": "zh-w118",
+      "term": "地图",
+      "reading": "dìtú",
+      "meaning": "Bản đồ",
+      "category": "travel",
+      "example": {
+        "text": "我有一张地图。",
+        "reading": "Wǒ yǒu yì zhāng dìtú.",
+        "meaning": "Tôi có một tấm bản đồ."
+      }
+    },
+    {
+      "id": "zh-w119",
+      "term": "左边",
+      "reading": "zuǒbian",
+      "meaning": "Bên trái",
+      "category": "travel",
+      "example": {
+        "text": "银行在左边。",
+        "reading": "Yínháng zài zuǒbian.",
+        "meaning": "Ngân hàng ở bên trái."
+      }
+    },
+    {
+      "id": "zh-w120",
+      "term": "右边",
+      "reading": "yòubian",
+      "meaning": "Bên phải",
+      "category": "travel",
+      "example": {
+        "text": "往右边走。",
+        "reading": "Wǎng yòubian zǒu.",
+        "meaning": "Đi về phía bên phải."
+      }
+    }
+  ],
+  "ja": [
+    {
+      "id": "ja-w001",
+      "term": "こんにちは",
+      "reading": "konnichiwa",
+      "meaning": "Xin chào.",
+      "category": "greetings",
+      "example": {
+        "text": "こんにちは。",
+        "reading": "Konnichiwa.",
+        "meaning": "Xin chào."
+      }
+    },
+    {
+      "id": "ja-w002",
+      "term": "おはようございます",
+      "reading": "ohayō gozaimasu",
+      "meaning": "Chào buổi sáng.",
+      "category": "greetings",
+      "example": {
+        "text": "おはようございます。",
+        "reading": "Ohayō gozaimasu.",
+        "meaning": "Chào buổi sáng."
+      }
+    },
+    {
+      "id": "ja-w003",
+      "term": "こんばんは",
+      "reading": "konbanwa",
+      "meaning": "Chào buổi tối.",
+      "category": "greetings",
+      "example": {
+        "text": "こんばんは。",
+        "reading": "Konbanwa.",
+        "meaning": "Chào buổi tối."
+      }
+    },
+    {
+      "id": "ja-w004",
+      "term": "さようなら",
+      "reading": "sayōnara",
+      "meaning": "Tạm biệt.",
+      "category": "greetings",
+      "example": {
+        "text": "さようなら。",
+        "reading": "Sayōnara.",
+        "meaning": "Tạm biệt."
+      }
+    },
+    {
+      "id": "ja-w005",
+      "term": "また明日",
+      "reading": "mata ashita",
+      "meaning": "Hẹn gặp ngày mai.",
+      "category": "greetings",
+      "example": {
+        "text": "また明日。",
+        "reading": "Mata ashita.",
+        "meaning": "Hẹn gặp ngày mai."
+      }
+    },
+    {
+      "id": "ja-w006",
+      "term": "ありがとうございます",
+      "reading": "arigatō gozaimasu",
+      "meaning": "Cảm ơn bạn.",
+      "category": "greetings",
+      "example": {
+        "text": "ありがとうございます。",
+        "reading": "Arigatō gozaimasu.",
+        "meaning": "Cảm ơn bạn."
+      }
+    },
+    {
+      "id": "ja-w007",
+      "term": "すみません",
+      "reading": "sumimasen",
+      "meaning": "Xin lỗi / xin phép làm phiền.",
+      "category": "greetings",
+      "example": {
+        "text": "すみません、駅はどこですか。",
+        "reading": "Sumimasen, eki wa doko desu ka.",
+        "meaning": "Xin phép hỏi, nhà ga ở đâu?"
+      }
+    },
+    {
+      "id": "ja-w008",
+      "term": "はじめまして",
+      "reading": "hajimemashite",
+      "meaning": "Rất vui được làm quen lần đầu.",
+      "category": "greetings",
+      "example": {
+        "text": "はじめまして。アンです。",
+        "reading": "Hajimemashite. An desu.",
+        "meaning": "Rất vui được làm quen. Tôi là An."
+      }
+    },
+    {
+      "id": "ja-w009",
+      "term": "よろしくお願いします",
+      "reading": "yoroshiku onegaishimasu",
+      "meaning": "Lời lịch sự khi làm quen, nhờ giúp hoặc phối hợp.",
+      "category": "greetings",
+      "example": {
+        "text": "アンです。よろしくお願いします。",
+        "reading": "An desu. Yoroshiku onegaishimasu.",
+        "meaning": "Tôi là An. Mong được làm quen và giúp đỡ."
+      }
+    },
+    {
+      "id": "ja-w010",
+      "term": "どういたしまして",
+      "reading": "dō itashimashite",
+      "meaning": "Không có gì (đáp lời cảm ơn).",
+      "category": "greetings",
+      "example": {
+        "text": "どういたしまして。",
+        "reading": "Dō itashimashite.",
+        "meaning": "Không có gì."
+      }
+    },
+    {
+      "id": "ja-w011",
+      "term": "おやすみなさい",
+      "reading": "oyasuminasai",
+      "meaning": "Chúc ngủ ngon.",
+      "category": "greetings",
+      "example": {
+        "text": "おやすみなさい。",
+        "reading": "Oyasuminasai.",
+        "meaning": "Chúc ngủ ngon."
+      }
+    },
+    {
+      "id": "ja-w012",
+      "term": "失礼します",
+      "reading": "shitsurei shimasu",
+      "meaning": "Xin phép (khi ra/vào hoặc làm phiền).",
+      "category": "greetings",
+      "example": {
+        "text": "失礼します。",
+        "reading": "Shitsurei shimasu.",
+        "meaning": "Xin phép."
+      }
+    },
+    {
+      "id": "ja-w013",
+      "term": "私",
+      "reading": "watashi",
+      "meaning": "Tôi.",
+      "category": "people",
+      "example": {
+        "text": "私はアンです。",
+        "reading": "Watashi wa An desu.",
+        "meaning": "Tôi là An."
+      }
+    },
+    {
+      "id": "ja-w014",
+      "term": "人",
+      "reading": "hito",
+      "meaning": "Người.",
+      "category": "people",
+      "example": {
+        "text": "あの人は先生です。",
+        "reading": "Ano hito wa sensei desu.",
+        "meaning": "Người kia là giáo viên."
+      }
+    },
+    {
+      "id": "ja-w015",
+      "term": "友達",
+      "reading": "tomodachi",
+      "meaning": "Bạn bè / một người bạn.",
+      "category": "people",
+      "example": {
+        "text": "明日、友達に会います。",
+        "reading": "Ashita, tomodachi ni aimasu.",
+        "meaning": "Ngày mai tôi gặp một người bạn."
+      }
+    },
+    {
+      "id": "ja-w016",
+      "term": "家族",
+      "reading": "kazoku",
+      "meaning": "Gia đình.",
+      "category": "people",
+      "example": {
+        "text": "家族と住んでいます。",
+        "reading": "Kazoku to sunde imasu.",
+        "meaning": "Tôi sống cùng gia đình."
+      }
+    },
+    {
+      "id": "ja-w017",
+      "term": "母",
+      "reading": "haha",
+      "meaning": "Mẹ của mình (khi nói với người ngoài).",
+      "category": "people",
+      "example": {
+        "text": "母は家にいます。",
+        "reading": "Haha wa ie ni imasu.",
+        "meaning": "Mẹ tôi đang ở nhà."
+      }
+    },
+    {
+      "id": "ja-w018",
+      "term": "父",
+      "reading": "chichi",
+      "meaning": "Bố của mình (khi nói với người ngoài).",
+      "category": "people",
+      "example": {
+        "text": "父は会社にいます。",
+        "reading": "Chichi wa kaisha ni imasu.",
+        "meaning": "Bố tôi đang ở công ty."
+      }
+    },
+    {
+      "id": "ja-w019",
+      "term": "兄",
+      "reading": "ani",
+      "meaning": "Anh trai của mình.",
+      "category": "people",
+      "example": {
+        "text": "兄は学生です。",
+        "reading": "Ani wa gakusei desu.",
+        "meaning": "Anh trai tôi là sinh viên."
+      }
+    },
+    {
+      "id": "ja-w020",
+      "term": "姉",
+      "reading": "ane",
+      "meaning": "Chị gái của mình.",
+      "category": "people",
+      "example": {
+        "text": "姉は先生です。",
+        "reading": "Ane wa sensei desu.",
+        "meaning": "Chị gái tôi là giáo viên."
+      }
+    },
+    {
+      "id": "ja-w021",
+      "term": "弟",
+      "reading": "otōto",
+      "meaning": "Em trai.",
+      "category": "people",
+      "example": {
+        "text": "弟がいます。",
+        "reading": "Otōto ga imasu.",
+        "meaning": "Tôi có một em trai."
+      }
+    },
+    {
+      "id": "ja-w022",
+      "term": "妹",
+      "reading": "imōto",
+      "meaning": "Em gái.",
+      "category": "people",
+      "example": {
+        "text": "妹がいます。",
+        "reading": "Imōto ga imasu.",
+        "meaning": "Tôi có một em gái."
+      }
+    },
+    {
+      "id": "ja-w023",
+      "term": "子供",
+      "reading": "kodomo",
+      "meaning": "Trẻ em / con.",
+      "category": "people",
+      "example": {
+        "text": "子供は公園にいます。",
+        "reading": "Kodomo wa kōen ni imasu.",
+        "meaning": "Trẻ đang ở công viên."
+      }
+    },
+    {
+      "id": "ja-w024",
+      "term": "先生",
+      "reading": "sensei",
+      "meaning": "Giáo viên / thầy cô.",
+      "category": "people",
+      "example": {
+        "text": "先生に聞きます。",
+        "reading": "Sensei ni kikimasu.",
+        "meaning": "Tôi hỏi giáo viên."
+      }
+    },
+    {
+      "id": "ja-w025",
+      "term": "一",
+      "reading": "ichi",
+      "meaning": "Một.",
+      "category": "numbers",
+      "example": {
+        "text": "一です。",
+        "reading": "Ichi desu.",
+        "meaning": "Là số một."
+      }
+    },
+    {
+      "id": "ja-w026",
+      "term": "二",
+      "reading": "ni",
+      "meaning": "Hai.",
+      "category": "numbers",
+      "example": {
+        "text": "二です。",
+        "reading": "Ni desu.",
+        "meaning": "Là số hai."
+      }
+    },
+    {
+      "id": "ja-w027",
+      "term": "三",
+      "reading": "san",
+      "meaning": "Ba.",
+      "category": "numbers",
+      "example": {
+        "text": "三です。",
+        "reading": "San desu.",
+        "meaning": "Là số ba."
+      }
+    },
+    {
+      "id": "ja-w028",
+      "term": "四",
+      "reading": "yon",
+      "meaning": "Bốn.",
+      "category": "numbers",
+      "example": {
+        "text": "四です。",
+        "reading": "Yon desu.",
+        "meaning": "Là số bốn."
+      }
+    },
+    {
+      "id": "ja-w029",
+      "term": "五",
+      "reading": "go",
+      "meaning": "Năm.",
+      "category": "numbers",
+      "example": {
+        "text": "五です。",
+        "reading": "Go desu.",
+        "meaning": "Là số năm."
+      }
+    },
+    {
+      "id": "ja-w030",
+      "term": "六",
+      "reading": "roku",
+      "meaning": "Sáu.",
+      "category": "numbers",
+      "example": {
+        "text": "六です。",
+        "reading": "Roku desu.",
+        "meaning": "Là số sáu."
+      }
+    },
+    {
+      "id": "ja-w031",
+      "term": "七",
+      "reading": "nana",
+      "meaning": "Bảy.",
+      "category": "numbers",
+      "example": {
+        "text": "七です。",
+        "reading": "Nana desu.",
+        "meaning": "Là số bảy."
+      }
+    },
+    {
+      "id": "ja-w032",
+      "term": "八",
+      "reading": "hachi",
+      "meaning": "Tám.",
+      "category": "numbers",
+      "example": {
+        "text": "八です。",
+        "reading": "Hachi desu.",
+        "meaning": "Là số tám."
+      }
+    },
+    {
+      "id": "ja-w033",
+      "term": "九",
+      "reading": "kyū",
+      "meaning": "Chín.",
+      "category": "numbers",
+      "example": {
+        "text": "九です。",
+        "reading": "Kyū desu.",
+        "meaning": "Là số chín."
+      }
+    },
+    {
+      "id": "ja-w034",
+      "term": "十",
+      "reading": "jū",
+      "meaning": "Mười.",
+      "category": "numbers",
+      "example": {
+        "text": "十です。",
+        "reading": "Jū desu.",
+        "meaning": "Là số mười."
+      }
+    },
+    {
+      "id": "ja-w035",
+      "term": "百",
+      "reading": "hyaku",
+      "meaning": "Một trăm.",
+      "category": "numbers",
+      "example": {
+        "text": "百円です。",
+        "reading": "Hyaku en desu.",
+        "meaning": "Một trăm yên."
+      }
+    },
+    {
+      "id": "ja-w036",
+      "term": "千",
+      "reading": "sen",
+      "meaning": "Một nghìn.",
+      "category": "numbers",
+      "example": {
+        "text": "千円です。",
+        "reading": "Sen en desu.",
+        "meaning": "Một nghìn yên."
+      }
+    },
+    {
+      "id": "ja-w037",
+      "term": "水",
+      "reading": "mizu",
+      "meaning": "Nước.",
+      "category": "food",
+      "example": {
+        "text": "水を飲みます。",
+        "reading": "Mizu o nomimasu.",
+        "meaning": "Tôi uống nước."
+      }
+    },
+    {
+      "id": "ja-w038",
+      "term": "お茶",
+      "reading": "ocha",
+      "meaning": "Trà.",
+      "category": "food",
+      "example": {
+        "text": "お茶をお願いします。",
+        "reading": "Ocha o onegaishimasu.",
+        "meaning": "Cho tôi xin trà."
+      }
+    },
+    {
+      "id": "ja-w039",
+      "term": "コーヒー",
+      "reading": "kōhī",
+      "meaning": "Cà phê.",
+      "category": "food",
+      "example": {
+        "text": "コーヒーを飲みます。",
+        "reading": "Kōhī o nomimasu.",
+        "meaning": "Tôi uống cà phê."
+      }
+    },
+    {
+      "id": "ja-w040",
+      "term": "ごはん",
+      "reading": "gohan",
+      "meaning": "Cơm / bữa ăn.",
+      "category": "food",
+      "example": {
+        "text": "ごはんを食べます。",
+        "reading": "Gohan o tabemasu.",
+        "meaning": "Tôi ăn cơm."
+      }
+    },
+    {
+      "id": "ja-w041",
+      "term": "パン",
+      "reading": "pan",
+      "meaning": "Bánh mì.",
+      "category": "food",
+      "example": {
+        "text": "パンを食べます。",
+        "reading": "Pan o tabemasu.",
+        "meaning": "Tôi ăn bánh mì."
+      }
+    },
+    {
+      "id": "ja-w042",
+      "term": "りんご",
+      "reading": "ringo",
+      "meaning": "Táo.",
+      "category": "food",
+      "example": {
+        "text": "りんごを二つください。",
+        "reading": "Ringo o futatsu kudasai.",
+        "meaning": "Cho tôi hai quả táo."
+      }
+    },
+    {
+      "id": "ja-w043",
+      "term": "バナナ",
+      "reading": "banana",
+      "meaning": "Chuối.",
+      "category": "food",
+      "example": {
+        "text": "バナナを三本ください。",
+        "reading": "Banana o sanbon kudasai.",
+        "meaning": "Cho tôi ba quả chuối."
+      }
+    },
+    {
+      "id": "ja-w044",
+      "term": "牛乳",
+      "reading": "gyūnyū",
+      "meaning": "Sữa.",
+      "category": "food",
+      "example": {
+        "text": "牛乳を飲みます。",
+        "reading": "Gyūnyū o nomimasu.",
+        "meaning": "Tôi uống sữa."
+      }
+    },
+    {
+      "id": "ja-w045",
+      "term": "卵",
+      "reading": "tamago",
+      "meaning": "Trứng.",
+      "category": "food",
+      "example": {
+        "text": "卵を食べます。",
+        "reading": "Tamago o tabemasu.",
+        "meaning": "Tôi ăn trứng."
+      }
+    },
+    {
+      "id": "ja-w046",
+      "term": "魚",
+      "reading": "sakana",
+      "meaning": "Cá.",
+      "category": "food",
+      "example": {
+        "text": "魚を食べます。",
+        "reading": "Sakana o tabemasu.",
+        "meaning": "Tôi ăn cá."
+      }
+    },
+    {
+      "id": "ja-w047",
+      "term": "肉",
+      "reading": "niku",
+      "meaning": "Thịt.",
+      "category": "food",
+      "example": {
+        "text": "肉を買います。",
+        "reading": "Niku o kaimasu.",
+        "meaning": "Tôi mua thịt."
+      }
+    },
+    {
+      "id": "ja-w048",
+      "term": "野菜",
+      "reading": "yasai",
+      "meaning": "Rau.",
+      "category": "food",
+      "example": {
+        "text": "野菜を食べます。",
+        "reading": "Yasai o tabemasu.",
+        "meaning": "Tôi ăn rau."
+      }
+    },
+    {
+      "id": "ja-w049",
+      "term": "家",
+      "reading": "ie",
+      "meaning": "Nhà.",
+      "category": "places",
+      "example": {
+        "text": "家にいます。",
+        "reading": "Ie ni imasu.",
+        "meaning": "Tôi đang ở nhà."
+      }
+    },
+    {
+      "id": "ja-w050",
+      "term": "学校",
+      "reading": "gakkō",
+      "meaning": "Trường học.",
+      "category": "places",
+      "example": {
+        "text": "学校に行きます。",
+        "reading": "Gakkō ni ikimasu.",
+        "meaning": "Tôi đi đến trường."
+      }
+    },
+    {
+      "id": "ja-w051",
+      "term": "会社",
+      "reading": "kaisha",
+      "meaning": "Công ty.",
+      "category": "places",
+      "example": {
+        "text": "会社にいます。",
+        "reading": "Kaisha ni imasu.",
+        "meaning": "Tôi đang ở công ty."
+      }
+    },
+    {
+      "id": "ja-w052",
+      "term": "駅",
+      "reading": "eki",
+      "meaning": "Nhà ga.",
+      "category": "places",
+      "example": {
+        "text": "駅はどこですか。",
+        "reading": "Eki wa doko desu ka.",
+        "meaning": "Nhà ga ở đâu?"
+      }
+    },
+    {
+      "id": "ja-w053",
+      "term": "公園",
+      "reading": "kōen",
+      "meaning": "Công viên.",
+      "category": "places",
+      "example": {
+        "text": "公園に行きたいです。",
+        "reading": "Kōen ni ikitai desu.",
+        "meaning": "Tôi muốn đi công viên."
+      }
+    },
+    {
+      "id": "ja-w054",
+      "term": "店",
+      "reading": "mise",
+      "meaning": "Cửa hàng / quán.",
+      "category": "places",
+      "example": {
+        "text": "この店が好きです。",
+        "reading": "Kono mise ga suki desu.",
+        "meaning": "Tôi thích cửa hàng này."
+      }
+    },
+    {
+      "id": "ja-w055",
+      "term": "スーパー",
+      "reading": "sūpā",
+      "meaning": "Siêu thị.",
+      "category": "places",
+      "example": {
+        "text": "スーパーで買い物をします。",
+        "reading": "Sūpā de kaimono o shimasu.",
+        "meaning": "Tôi mua sắm ở siêu thị."
+      }
+    },
+    {
+      "id": "ja-w056",
+      "term": "コンビニ",
+      "reading": "konbini",
+      "meaning": "Cửa hàng tiện lợi.",
+      "category": "places",
+      "example": {
+        "text": "コンビニは近いですか。",
+        "reading": "Konbini wa chikai desu ka.",
+        "meaning": "Cửa hàng tiện lợi có gần không?"
+      }
+    },
+    {
+      "id": "ja-w057",
+      "term": "図書館",
+      "reading": "toshokan",
+      "meaning": "Thư viện.",
+      "category": "places",
+      "example": {
+        "text": "図書館で勉強します。",
+        "reading": "Toshokan de benkyō shimasu.",
+        "meaning": "Tôi học ở thư viện."
+      }
+    },
+    {
+      "id": "ja-w058",
+      "term": "レストラン",
+      "reading": "resutoran",
+      "meaning": "Nhà hàng.",
+      "category": "places",
+      "example": {
+        "text": "レストランで食べます。",
+        "reading": "Resutoran de tabemasu.",
+        "meaning": "Tôi ăn ở nhà hàng."
+      }
+    },
+    {
+      "id": "ja-w059",
+      "term": "カフェ",
+      "reading": "kafe",
+      "meaning": "Quán cà phê.",
+      "category": "places",
+      "example": {
+        "text": "カフェで会いましょう。",
+        "reading": "Kafe de aimashō.",
+        "meaning": "Mình gặp nhau ở quán cà phê nhé."
+      }
+    },
+    {
+      "id": "ja-w060",
+      "term": "銀行",
+      "reading": "ginkō",
+      "meaning": "Ngân hàng.",
+      "category": "places",
+      "example": {
+        "text": "銀行はあそこです。",
+        "reading": "Ginkō wa asoko desu.",
+        "meaning": "Ngân hàng ở đằng kia."
+      }
+    },
+    {
+      "id": "ja-w061",
+      "term": "今日",
+      "reading": "kyō",
+      "meaning": "Hôm nay.",
+      "category": "time",
+      "example": {
+        "text": "今日は月曜日です。",
+        "reading": "Kyō wa getsuyōbi desu.",
+        "meaning": "Hôm nay là thứ Hai."
+      }
+    },
+    {
+      "id": "ja-w062",
+      "term": "明日",
+      "reading": "ashita",
+      "meaning": "Ngày mai.",
+      "category": "time",
+      "example": {
+        "text": "明日、友達に会います。",
+        "reading": "Ashita, tomodachi ni aimasu.",
+        "meaning": "Ngày mai tôi gặp một người bạn."
+      }
+    },
+    {
+      "id": "ja-w063",
+      "term": "昨日",
+      "reading": "kinō",
+      "meaning": "Hôm qua.",
+      "category": "time",
+      "example": {
+        "text": "昨日、勉強しました。",
+        "reading": "Kinō, benkyō shimashita.",
+        "meaning": "Hôm qua tôi đã học."
+      }
+    },
+    {
+      "id": "ja-w064",
+      "term": "今",
+      "reading": "ima",
+      "meaning": "Bây giờ.",
+      "category": "time",
+      "example": {
+        "text": "今、三時です。",
+        "reading": "Ima, sanji desu.",
+        "meaning": "Bây giờ là ba giờ."
+      }
+    },
+    {
+      "id": "ja-w065",
+      "term": "朝",
+      "reading": "asa",
+      "meaning": "Buổi sáng.",
+      "category": "time",
+      "example": {
+        "text": "朝、パンを食べます。",
+        "reading": "Asa, pan o tabemasu.",
+        "meaning": "Buổi sáng tôi ăn bánh mì."
+      }
+    },
+    {
+      "id": "ja-w066",
+      "term": "昼",
+      "reading": "hiru",
+      "meaning": "Buổi trưa / ban ngày.",
+      "category": "time",
+      "example": {
+        "text": "昼にごはんを食べます。",
+        "reading": "Hiru ni gohan o tabemasu.",
+        "meaning": "Tôi ăn cơm vào buổi trưa."
+      }
+    },
+    {
+      "id": "ja-w067",
+      "term": "夜",
+      "reading": "yoru",
+      "meaning": "Buổi tối / đêm.",
+      "category": "time",
+      "example": {
+        "text": "夜に勉強します。",
+        "reading": "Yoru ni benkyō shimasu.",
+        "meaning": "Tôi học vào buổi tối."
+      }
+    },
+    {
+      "id": "ja-w068",
+      "term": "午前",
+      "reading": "gozen",
+      "meaning": "Buổi sáng, trước 12 giờ trưa.",
+      "category": "time",
+      "example": {
+        "text": "午前九時に始めます。",
+        "reading": "Gozen kuji ni hajimemasu.",
+        "meaning": "Tôi bắt đầu lúc chín giờ sáng."
+      }
+    },
+    {
+      "id": "ja-w069",
+      "term": "午後",
+      "reading": "gogo",
+      "meaning": "PM, từ 12 giờ trưa trở đi.",
+      "category": "time",
+      "example": {
+        "text": "午後二時に会いましょう。",
+        "reading": "Gogo niji ni aimashō.",
+        "meaning": "Mình gặp nhau lúc hai giờ chiều nhé."
+      }
+    },
+    {
+      "id": "ja-w070",
+      "term": "月曜日",
+      "reading": "getsuyōbi",
+      "meaning": "Thứ Hai.",
+      "category": "time",
+      "example": {
+        "text": "月曜日は学校に行きます。",
+        "reading": "Getsuyōbi wa gakkō ni ikimasu.",
+        "meaning": "Thứ Hai tôi đi học."
+      }
+    },
+    {
+      "id": "ja-w071",
+      "term": "土曜日",
+      "reading": "doyōbi",
+      "meaning": "Thứ Bảy.",
+      "category": "time",
+      "example": {
+        "text": "土曜日は暇です。",
+        "reading": "Doyōbi wa hima desu.",
+        "meaning": "Thứ Bảy tôi rảnh."
+      }
+    },
+    {
+      "id": "ja-w072",
+      "term": "日曜日",
+      "reading": "nichiyōbi",
+      "meaning": "Chủ nhật.",
+      "category": "time",
+      "example": {
+        "text": "日曜日は休みです。",
+        "reading": "Nichiyōbi wa yasumi desu.",
+        "meaning": "Chủ nhật tôi được nghỉ."
+      }
+    },
+    {
+      "id": "ja-w073",
+      "term": "行く",
+      "reading": "iku",
+      "meaning": "Đi.",
+      "category": "actions",
+      "example": {
+        "text": "学校に行きます。",
+        "reading": "Gakkō ni ikimasu.",
+        "meaning": "Tôi đi đến trường."
+      }
+    },
+    {
+      "id": "ja-w074",
+      "term": "来る",
+      "reading": "kuru",
+      "meaning": "Đến.",
+      "category": "actions",
+      "example": {
+        "text": "友達が来ます。",
+        "reading": "Tomodachi ga kimasu.",
+        "meaning": "Một người bạn đến."
+      }
+    },
+    {
+      "id": "ja-w075",
+      "term": "帰る",
+      "reading": "kaeru",
+      "meaning": "Trở về.",
+      "category": "actions",
+      "example": {
+        "text": "家に帰ります。",
+        "reading": "Ie ni kaerimasu.",
+        "meaning": "Tôi về nhà."
+      }
+    },
+    {
+      "id": "ja-w076",
+      "term": "食べる",
+      "reading": "taberu",
+      "meaning": "Ăn.",
+      "category": "actions",
+      "example": {
+        "text": "ごはんを食べます。",
+        "reading": "Gohan o tabemasu.",
+        "meaning": "Tôi ăn cơm."
+      }
+    },
+    {
+      "id": "ja-w077",
+      "term": "飲む",
+      "reading": "nomu",
+      "meaning": "Uống.",
+      "category": "actions",
+      "example": {
+        "text": "水を飲みます。",
+        "reading": "Mizu o nomimasu.",
+        "meaning": "Tôi uống nước."
+      }
+    },
+    {
+      "id": "ja-w078",
+      "term": "見る",
+      "reading": "miru",
+      "meaning": "Nhìn / xem.",
+      "category": "actions",
+      "example": {
+        "text": "写真を見ます。",
+        "reading": "Shashin o mimasu.",
+        "meaning": "Tôi xem ảnh."
+      }
+    },
+    {
+      "id": "ja-w079",
+      "term": "聞く",
+      "reading": "kiku",
+      "meaning": "Nghe / hỏi.",
+      "category": "actions",
+      "example": {
+        "text": "音楽を聞きます。",
+        "reading": "Ongaku o kikimasu.",
+        "meaning": "Tôi nghe nhạc."
+      }
+    },
+    {
+      "id": "ja-w080",
+      "term": "話す",
+      "reading": "hanasu",
+      "meaning": "Nói / trò chuyện.",
+      "category": "actions",
+      "example": {
+        "text": "日本語で話します。",
+        "reading": "Nihongo de hanashimasu.",
+        "meaning": "Tôi nói bằng tiếng Nhật."
+      }
+    },
+    {
+      "id": "ja-w081",
+      "term": "読む",
+      "reading": "yomu",
+      "meaning": "Đọc.",
+      "category": "actions",
+      "example": {
+        "text": "本を読みます。",
+        "reading": "Hon o yomimasu.",
+        "meaning": "Tôi đọc sách."
+      }
+    },
+    {
+      "id": "ja-w082",
+      "term": "書く",
+      "reading": "kaku",
+      "meaning": "Viết.",
+      "category": "actions",
+      "example": {
+        "text": "名前を書きます。",
+        "reading": "Namae o kakimasu.",
+        "meaning": "Tôi viết tên."
+      }
+    },
+    {
+      "id": "ja-w083",
+      "term": "買う",
+      "reading": "kau",
+      "meaning": "Mua.",
+      "category": "actions",
+      "example": {
+        "text": "本を買います。",
+        "reading": "Hon o kaimasu.",
+        "meaning": "Tôi mua sách."
+      }
+    },
+    {
+      "id": "ja-w084",
+      "term": "待つ",
+      "reading": "matsu",
+      "meaning": "Chờ.",
+      "category": "actions",
+      "example": {
+        "text": "少し待ちます。",
+        "reading": "Sukoshi machimasu.",
+        "meaning": "Tôi chờ một chút."
+      }
+    },
+    {
+      "id": "ja-w085",
+      "term": "うれしい",
+      "reading": "ureshii",
+      "meaning": "Vui, mừng.",
+      "category": "feelings",
+      "example": {
+        "text": "うれしいです。",
+        "reading": "Ureshii desu.",
+        "meaning": "Tôi thấy vui."
+      }
+    },
+    {
+      "id": "ja-w086",
+      "term": "楽しい",
+      "reading": "tanoshii",
+      "meaning": "Vui vẻ / thú vị.",
+      "category": "feelings",
+      "example": {
+        "text": "勉強は楽しいです。",
+        "reading": "Benkyō wa tanoshii desu.",
+        "meaning": "Việc học thật thú vị."
+      }
+    },
+    {
+      "id": "ja-w087",
+      "term": "悲しい",
+      "reading": "kanashii",
+      "meaning": "Buồn.",
+      "category": "feelings",
+      "example": {
+        "text": "少し悲しいです。",
+        "reading": "Sukoshi kanashii desu.",
+        "meaning": "Tôi hơi buồn."
+      }
+    },
+    {
+      "id": "ja-w088",
+      "term": "寂しい",
+      "reading": "sabishii",
+      "meaning": "Cô đơn / thấy trống vắng.",
+      "category": "feelings",
+      "example": {
+        "text": "少し寂しいです。",
+        "reading": "Sukoshi sabishii desu.",
+        "meaning": "Tôi hơi cô đơn."
+      }
+    },
+    {
+      "id": "ja-w089",
+      "term": "疲れた",
+      "reading": "tsukareta",
+      "meaning": "Mệt / thấy mệt.",
+      "category": "feelings",
+      "example": {
+        "text": "少し疲れました。",
+        "reading": "Sukoshi tsukaremashita.",
+        "meaning": "Tôi hơi mệt."
+      }
+    },
+    {
+      "id": "ja-w090",
+      "term": "眠い",
+      "reading": "nemui",
+      "meaning": "Buồn ngủ.",
+      "category": "feelings",
+      "example": {
+        "text": "今、眠いです。",
+        "reading": "Ima, nemui desu.",
+        "meaning": "Bây giờ tôi buồn ngủ."
+      }
+    },
+    {
+      "id": "ja-w091",
+      "term": "忙しい",
+      "reading": "isogashii",
+      "meaning": "Bận.",
+      "category": "feelings",
+      "example": {
+        "text": "今日は忙しいです。",
+        "reading": "Kyō wa isogashii desu.",
+        "meaning": "Hôm nay tôi bận."
+      }
+    },
+    {
+      "id": "ja-w092",
+      "term": "暇",
+      "reading": "hima",
+      "meaning": "Rảnh.",
+      "category": "feelings",
+      "example": {
+        "text": "明日は暇です。",
+        "reading": "Ashita wa hima desu.",
+        "meaning": "Ngày mai tôi rảnh."
+      }
+    },
+    {
+      "id": "ja-w093",
+      "term": "大丈夫",
+      "reading": "daijōbu",
+      "meaning": "Ổn / không sao.",
+      "category": "feelings",
+      "example": {
+        "text": "大丈夫です。",
+        "reading": "Daijōbu desu.",
+        "meaning": "Tôi ổn / không sao."
+      }
+    },
+    {
+      "id": "ja-w094",
+      "term": "好き",
+      "reading": "suki",
+      "meaning": "Thích.",
+      "category": "feelings",
+      "example": {
+        "text": "お茶が好きです。",
+        "reading": "Ocha ga suki desu.",
+        "meaning": "Tôi thích trà."
+      }
+    },
+    {
+      "id": "ja-w095",
+      "term": "嫌い",
+      "reading": "kirai",
+      "meaning": "Không thích / ghét.",
+      "category": "feelings",
+      "example": {
+        "text": "魚は嫌いです。",
+        "reading": "Sakana wa kirai desu.",
+        "meaning": "Tôi không thích cá."
+      }
+    },
+    {
+      "id": "ja-w096",
+      "term": "安心",
+      "reading": "anshin",
+      "meaning": "Sự yên tâm.",
+      "category": "feelings",
+      "example": {
+        "text": "安心しました。",
+        "reading": "Anshin shimashita.",
+        "meaning": "Tôi đã thấy yên tâm."
+      }
+    },
+    {
+      "id": "ja-w097",
+      "term": "日本語",
+      "reading": "nihongo",
+      "meaning": "Tiếng Nhật.",
+      "category": "study",
+      "example": {
+        "text": "日本語を勉強します。",
+        "reading": "Nihongo o benkyō shimasu.",
+        "meaning": "Tôi học tiếng Nhật."
+      }
+    },
+    {
+      "id": "ja-w098",
+      "term": "英語",
+      "reading": "eigo",
+      "meaning": "Tiếng Anh.",
+      "category": "study",
+      "example": {
+        "text": "英語を勉強します。",
+        "reading": "Eigo o benkyō shimasu.",
+        "meaning": "Tôi học tiếng Anh."
+      }
+    },
+    {
+      "id": "ja-w099",
+      "term": "中国語",
+      "reading": "chūgokugo",
+      "meaning": "Tiếng Trung.",
+      "category": "study",
+      "example": {
+        "text": "中国語を勉強します。",
+        "reading": "Chūgokugo o benkyō shimasu.",
+        "meaning": "Tôi học tiếng Trung."
+      }
+    },
+    {
+      "id": "ja-w100",
+      "term": "ひらがな",
+      "reading": "hiragana",
+      "meaning": "Hiragana, một hệ chữ ghi âm tiếng Nhật.",
+      "category": "study",
+      "example": {
+        "text": "ひらがなを読みます。",
+        "reading": "Hiragana o yomimasu.",
+        "meaning": "Tôi đọc hiragana."
+      }
+    },
+    {
+      "id": "ja-w101",
+      "term": "カタカナ",
+      "reading": "katakana",
+      "meaning": "Katakana, hệ chữ thường dùng cho từ mượn.",
+      "category": "study",
+      "example": {
+        "text": "カタカナを書きます。",
+        "reading": "Katakana o kakimasu.",
+        "meaning": "Tôi viết katakana."
+      }
+    },
+    {
+      "id": "ja-w102",
+      "term": "漢字",
+      "reading": "kanji",
+      "meaning": "Chữ kanji.",
+      "category": "study",
+      "example": {
+        "text": "漢字を勉強します。",
+        "reading": "Kanji o benkyō shimasu.",
+        "meaning": "Tôi học chữ kanji."
+      }
+    },
+    {
+      "id": "ja-w103",
+      "term": "本",
+      "reading": "hon",
+      "meaning": "Sách.",
+      "category": "study",
+      "example": {
+        "text": "本を読みます。",
+        "reading": "Hon o yomimasu.",
+        "meaning": "Tôi đọc sách."
+      }
+    },
+    {
+      "id": "ja-w104",
+      "term": "ノート",
+      "reading": "nōto",
+      "meaning": "Vở ghi / sổ ghi chép.",
+      "category": "study",
+      "example": {
+        "text": "ノートに書きます。",
+        "reading": "Nōto ni kakimasu.",
+        "meaning": "Tôi viết vào vở."
+      }
+    },
+    {
+      "id": "ja-w105",
+      "term": "ペン",
+      "reading": "pen",
+      "meaning": "Bút.",
+      "category": "study",
+      "example": {
+        "text": "ペンを使います。",
+        "reading": "Pen o tsukaimasu.",
+        "meaning": "Tôi dùng bút."
+      }
+    },
+    {
+      "id": "ja-w106",
+      "term": "授業",
+      "reading": "jugyō",
+      "meaning": "Buổi học / giờ học.",
+      "category": "study",
+      "example": {
+        "text": "授業は九時に始まります。",
+        "reading": "Jugyō wa kuji ni hajimarimasu.",
+        "meaning": "Buổi học bắt đầu lúc chín giờ."
+      }
+    },
+    {
+      "id": "ja-w107",
+      "term": "宿題",
+      "reading": "shukudai",
+      "meaning": "Bài tập về nhà.",
+      "category": "study",
+      "example": {
+        "text": "宿題をします。",
+        "reading": "Shukudai o shimasu.",
+        "meaning": "Tôi làm bài tập về nhà."
+      }
+    },
+    {
+      "id": "ja-w108",
+      "term": "勉強",
+      "reading": "benkyō",
+      "meaning": "Việc học.",
+      "category": "study",
+      "example": {
+        "text": "毎日、勉強します。",
+        "reading": "Mainichi, benkyō shimasu.",
+        "meaning": "Tôi học mỗi ngày."
+      }
+    },
+    {
+      "id": "ja-w109",
+      "term": "バス",
+      "reading": "basu",
+      "meaning": "Xe buýt.",
+      "category": "travel",
+      "example": {
+        "text": "バスで行きます。",
+        "reading": "Basu de ikimasu.",
+        "meaning": "Tôi đi bằng xe buýt."
+      }
+    },
+    {
+      "id": "ja-w110",
+      "term": "電車",
+      "reading": "densha",
+      "meaning": "Tàu điện.",
+      "category": "travel",
+      "example": {
+        "text": "電車で行きます。",
+        "reading": "Densha de ikimasu.",
+        "meaning": "Tôi đi bằng tàu điện."
+      }
+    },
+    {
+      "id": "ja-w111",
+      "term": "地下鉄",
+      "reading": "chikatetsu",
+      "meaning": "Tàu điện ngầm.",
+      "category": "travel",
+      "example": {
+        "text": "地下鉄で行きます。",
+        "reading": "Chikatetsu de ikimasu.",
+        "meaning": "Tôi đi bằng tàu điện ngầm."
+      }
+    },
+    {
+      "id": "ja-w112",
+      "term": "タクシー",
+      "reading": "takushī",
+      "meaning": "Taxi.",
+      "category": "travel",
+      "example": {
+        "text": "タクシーで行きます。",
+        "reading": "Takushī de ikimasu.",
+        "meaning": "Tôi đi bằng taxi."
+      }
+    },
+    {
+      "id": "ja-w113",
+      "term": "自転車",
+      "reading": "jitensha",
+      "meaning": "Xe đạp.",
+      "category": "travel",
+      "example": {
+        "text": "自転車で行きます。",
+        "reading": "Jitensha de ikimasu.",
+        "meaning": "Tôi đi bằng xe đạp."
+      }
+    },
+    {
+      "id": "ja-w114",
+      "term": "切符",
+      "reading": "kippu",
+      "meaning": "Vé tàu / vé xe.",
+      "category": "travel",
+      "example": {
+        "text": "切符を買います。",
+        "reading": "Kippu o kaimasu.",
+        "meaning": "Tôi mua vé."
+      }
+    },
+    {
+      "id": "ja-w115",
+      "term": "旅行",
+      "reading": "ryokō",
+      "meaning": "Du lịch / chuyến đi.",
+      "category": "travel",
+      "example": {
+        "text": "旅行に行きます。",
+        "reading": "Ryokō ni ikimasu.",
+        "meaning": "Tôi đi du lịch."
+      }
+    },
+    {
+      "id": "ja-w116",
+      "term": "地図",
+      "reading": "chizu",
+      "meaning": "Bản đồ.",
+      "category": "travel",
+      "example": {
+        "text": "地図を見ます。",
+        "reading": "Chizu o mimasu.",
+        "meaning": "Tôi xem bản đồ."
+      }
+    },
+    {
+      "id": "ja-w117",
+      "term": "右",
+      "reading": "migi",
+      "meaning": "Bên phải.",
+      "category": "travel",
+      "example": {
+        "text": "右に曲がります。",
+        "reading": "Migi ni magarimasu.",
+        "meaning": "Tôi rẽ phải."
+      }
+    },
+    {
+      "id": "ja-w118",
+      "term": "左",
+      "reading": "hidari",
+      "meaning": "Bên trái.",
+      "category": "travel",
+      "example": {
+        "text": "左に曲がります。",
+        "reading": "Hidari ni magarimasu.",
+        "meaning": "Tôi rẽ trái."
+      }
+    },
+    {
+      "id": "ja-w119",
+      "term": "まっすぐ",
+      "reading": "massugu",
+      "meaning": "Thẳng.",
+      "category": "travel",
+      "example": {
+        "text": "まっすぐ行きます。",
+        "reading": "Massugu ikimasu.",
+        "meaning": "Tôi đi thẳng."
+      }
+    },
+    {
+      "id": "ja-w120",
+      "term": "ホテル",
+      "reading": "hoteru",
+      "meaning": "Khách sạn.",
+      "category": "travel",
+      "example": {
+        "text": "ホテルに泊まります。",
+        "reading": "Hoteru ni tomarimasu.",
+        "meaning": "Tôi ở lại khách sạn."
+      }
+    }
+  ]
+}

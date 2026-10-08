@@ -1,0 +1,2184 @@
+{
+  "schemaVersion": 1,
+  "lessons": {
+    "en": [
+      {
+        "id": "en-01",
+        "phrases": [
+          "Hello!",
+          "Good morning!",
+          "See you!"
+        ]
+      },
+      {
+        "id": "en-02",
+        "phrases": [
+          "My name is Linh.",
+          "What's your name?",
+          "Nice to meet you."
+        ]
+      },
+      {
+        "id": "en-03",
+        "phrases": [
+          "Water, please.",
+          "Tea, please.",
+          "How much is it?"
+        ]
+      },
+      {
+        "id": "en-04",
+        "phrases": [
+          "Thank you.",
+          "You're welcome.",
+          "I'm sorry."
+        ]
+      },
+      {
+        "id": "en-05",
+        "phrases": [
+          "Please say that again.",
+          "Please speak slowly.",
+          "I don't understand."
+        ]
+      },
+      {
+        "id": "en-06",
+        "phrases": [
+          "Where is the café?",
+          "Go straight.",
+          "Turn left."
+        ]
+      },
+      {
+        "id": "en-07",
+        "phrases": [
+          "I'm a student.",
+          "I work in an office.",
+          "I study English."
+        ]
+      },
+      {
+        "id": "en-08",
+        "phrases": [
+          "Are you free today?",
+          "I'm free today.",
+          "See you tomorrow."
+        ]
+      },
+      {
+        "id": "en-09",
+        "phrases": [
+          "I wake up at six.",
+          "I have breakfast at seven.",
+          "I go to bed at ten."
+        ]
+      },
+      {
+        "id": "en-10",
+        "phrases": [
+          "What time is it?",
+          "It's nine o'clock.",
+          "Let's meet at ten."
+        ]
+      },
+      {
+        "id": "en-11",
+        "phrases": [
+          "How much is this bag?",
+          "It's ten dollars.",
+          "I'll take it."
+        ]
+      },
+      {
+        "id": "en-12",
+        "phrases": [
+          "I'd like two apples.",
+          "Three bananas, please.",
+          "That's five pieces of fruit."
+        ]
+      },
+      {
+        "id": "en-13",
+        "phrases": [
+          "I go by bus.",
+          "Where is the bus stop?",
+          "The bus leaves at eight."
+        ]
+      },
+      {
+        "id": "en-14",
+        "phrases": [
+          "I have one brother.",
+          "My sister is a student.",
+          "We live together."
+        ]
+      },
+      {
+        "id": "en-15",
+        "phrases": [
+          "I can swim.",
+          "I can't drive.",
+          "Can you help me?"
+        ]
+      },
+      {
+        "id": "en-16",
+        "phrases": [
+          "There is a park nearby.",
+          "It's next to the café.",
+          "It's quiet here."
+        ]
+      },
+      {
+        "id": "en-17",
+        "phrases": [
+          "Could I have a menu, please?",
+          "Could you open the window?",
+          "Can I sit here?"
+        ]
+      },
+      {
+        "id": "en-18",
+        "phrases": [
+          "I leave home at seven.",
+          "Two tickets, please.",
+          "It costs ten dollars."
+        ]
+      },
+      {
+        "id": "en-19",
+        "phrases": [
+          "I watched a movie yesterday.",
+          "It was funny.",
+          "Did you enjoy it?"
+        ]
+      },
+      {
+        "id": "en-20",
+        "phrases": [
+          "I went to the park.",
+          "I saw a friend.",
+          "We had a good time."
+        ]
+      },
+      {
+        "id": "en-21",
+        "phrases": [
+          "I'm going to study tonight.",
+          "I'll call you tomorrow.",
+          "What are your plans?"
+        ]
+      },
+      {
+        "id": "en-22",
+        "phrases": [
+          "I usually take the bus.",
+          "I sometimes walk.",
+          "I never drive to work."
+        ]
+      },
+      {
+        "id": "en-23",
+        "phrases": [
+          "This bag is cheaper.",
+          "That bus is faster.",
+          "This room is bigger."
+        ]
+      },
+      {
+        "id": "en-24",
+        "phrases": [
+          "I went shopping yesterday.",
+          "I'm going to cook tonight.",
+          "I usually eat at home."
+        ]
+      },
+      {
+        "id": "en-25",
+        "phrases": [
+          "I like this café because it's quiet.",
+          "I prefer tea to coffee.",
+          "I think this place is nice."
+        ]
+      },
+      {
+        "id": "en-26",
+        "phrases": [
+          "Would you like to have lunch?",
+          "I'd love to.",
+          "Sorry, I'm busy today."
+        ]
+      },
+      {
+        "id": "en-27",
+        "phrases": [
+          "Hello, this is Linh.",
+          "Could I speak to Alex, please?",
+          "I'll call back later."
+        ]
+      },
+      {
+        "id": "en-28",
+        "phrases": [
+          "I'd like to book a lesson.",
+          "Is Tuesday afternoon available?",
+          "Three o'clock is fine."
+        ]
+      },
+      {
+        "id": "en-29",
+        "phrases": [
+          "Please send me the timetable.",
+          "I'd like more information.",
+          "Thank you for your help."
+        ]
+      },
+      {
+        "id": "en-30",
+        "phrases": [
+          "I'm going to visit the city on Tuesday.",
+          "Could you send me the bus times?",
+          "Thank you for your help."
+        ]
+      }
+    ],
+    "zh": [
+      {
+        "id": "zh-01",
+        "phrases": [
+          "你好！",
+          "早上好！",
+          "再见！"
+        ]
+      },
+      {
+        "id": "zh-02",
+        "phrases": [
+          "我叫安。",
+          "你叫什么名字？",
+          "很高兴认识你。"
+        ]
+      },
+      {
+        "id": "zh-03",
+        "phrases": [
+          "我要一杯水。",
+          "我要一杯茶。",
+          "多少钱？"
+        ]
+      },
+      {
+        "id": "zh-04",
+        "phrases": [
+          "谢谢！",
+          "不客气。",
+          "对不起。"
+        ]
+      },
+      {
+        "id": "zh-05",
+        "phrases": [
+          "请再说一遍。",
+          "请说慢一点。",
+          "我不明白。"
+        ]
+      },
+      {
+        "id": "zh-06",
+        "phrases": [
+          "咖啡馆在哪儿？",
+          "一直走。",
+          "往左拐。"
+        ]
+      },
+      {
+        "id": "zh-07",
+        "phrases": [
+          "我是学生。",
+          "我在公司工作。",
+          "我学中文。"
+        ]
+      },
+      {
+        "id": "zh-08",
+        "phrases": [
+          "你今天有空吗？",
+          "我今天有空。",
+          "明天见！"
+        ]
+      },
+      {
+        "id": "zh-09",
+        "phrases": [
+          "这个多少钱？",
+          "十块钱。",
+          "一共二十块钱。"
+        ]
+      },
+      {
+        "id": "zh-10",
+        "phrases": [
+          "现在几点？",
+          "现在三点半。",
+          "我们下午四点见。"
+        ]
+      },
+      {
+        "id": "zh-11",
+        "phrases": [
+          "今天星期一。",
+          "明天星期二。",
+          "周末我有空。"
+        ]
+      },
+      {
+        "id": "zh-12",
+        "phrases": [
+          "我家有三口人。",
+          "我有一个妹妹。",
+          "这是我妈妈。"
+        ]
+      },
+      {
+        "id": "zh-13",
+        "phrases": [
+          "我喜欢茶。",
+          "我不喜欢咖啡。",
+          "你喜欢喝茶吗？"
+        ]
+      },
+      {
+        "id": "zh-14",
+        "phrases": [
+          "我有手机。",
+          "我没有笔。",
+          "你有笔吗？"
+        ]
+      },
+      {
+        "id": "zh-15",
+        "phrases": [
+          "我会说一点中文。",
+          "我不会开车。",
+          "你会说中文吗？"
+        ]
+      },
+      {
+        "id": "zh-16",
+        "phrases": [
+          "我想买一本书。",
+          "我要买这个。",
+          "这个多少钱？"
+        ]
+      },
+      {
+        "id": "zh-17",
+        "phrases": [
+          "这个太大了。",
+          "有没有小一点的？",
+          "我要小号。"
+        ]
+      },
+      {
+        "id": "zh-18",
+        "phrases": [
+          "我要买这个。",
+          "我要小号。",
+          "一共二十块钱。"
+        ]
+      },
+      {
+        "id": "zh-19",
+        "phrases": [
+          "你怎么去学校？",
+          "我坐公交车去学校。",
+          "我坐地铁去学校。"
+        ]
+      },
+      {
+        "id": "zh-20",
+        "phrases": [
+          "银行在哪儿？",
+          "往右拐。",
+          "就在左边。"
+        ]
+      },
+      {
+        "id": "zh-21",
+        "phrases": [
+          "我每天七点起床。",
+          "我八点上班。",
+          "我晚上十点睡觉。"
+        ]
+      },
+      {
+        "id": "zh-22",
+        "phrases": [
+          "昨天我去了书店。",
+          "我买了一本书。",
+          "你昨天做了什么？"
+        ]
+      },
+      {
+        "id": "zh-23",
+        "phrases": [
+          "明天你有空吗？",
+          "我明天有空。",
+          "明天我想去公园。"
+        ]
+      },
+      {
+        "id": "zh-24",
+        "phrases": [
+          "我坐地铁去公园。",
+          "我们三点见。",
+          "明天见。"
+        ]
+      },
+      {
+        "id": "zh-25",
+        "phrases": [
+          "一起吃饭好吗？",
+          "好的，我们一起去。",
+          "我今天没空。"
+        ]
+      },
+      {
+        "id": "zh-26",
+        "phrases": [
+          "我喜欢这家店。",
+          "因为这里很安静。",
+          "我觉得很好。"
+        ]
+      },
+      {
+        "id": "zh-27",
+        "phrases": [
+          "今天很热。",
+          "外面冷吗？",
+          "我想喝水。"
+        ]
+      },
+      {
+        "id": "zh-28",
+        "phrases": [
+          "我现在有点忙。",
+          "晚点联系你。",
+          "我到家了。"
+        ]
+      },
+      {
+        "id": "zh-29",
+        "phrases": [
+          "你今天怎么样？",
+          "我有点累。",
+          "我想休息一下。"
+        ]
+      },
+      {
+        "id": "zh-30",
+        "phrases": [
+          "一起喝茶好吗？",
+          "我们下午三点见。",
+          "明天见。"
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "id": "ja-01",
+        "phrases": [
+          "こんにちは。",
+          "おはようございます。",
+          "こんばんは。"
+        ]
+      },
+      {
+        "id": "ja-02",
+        "phrases": [
+          "はじめまして。",
+          "アンです。",
+          "よろしくお願いします。"
+        ]
+      },
+      {
+        "id": "ja-03",
+        "phrases": [
+          "ベトナム人です。",
+          "学生です。",
+          "日本語を勉強します。"
+        ]
+      },
+      {
+        "id": "ja-04",
+        "phrases": [
+          "ありがとうございます。",
+          "どういたしまして。",
+          "すみません。"
+        ]
+      },
+      {
+        "id": "ja-05",
+        "phrases": [
+          "もう一度お願いします。",
+          "ゆっくりお願いします。",
+          "わかりません。"
+        ]
+      },
+      {
+        "id": "ja-06",
+        "phrases": [
+          "あさです。",
+          "いえです。",
+          "おちゃです。"
+        ]
+      },
+      {
+        "id": "ja-07",
+        "phrases": [
+          "コーヒーです。",
+          "パンです。",
+          "バスです。"
+        ]
+      },
+      {
+        "id": "ja-08",
+        "phrases": [
+          "水をお願いします。",
+          "お茶をお願いします。",
+          "いくらですか。"
+        ]
+      },
+      {
+        "id": "ja-09",
+        "phrases": [
+          "七時に起きます。",
+          "八時に仕事を始めます。",
+          "十時に寝ます。"
+        ]
+      },
+      {
+        "id": "ja-10",
+        "phrases": [
+          "今、三時です。",
+          "三時半です。",
+          "四時に会いましょう。"
+        ]
+      },
+      {
+        "id": "ja-11",
+        "phrases": [
+          "今日は月曜日です。",
+          "明日は火曜日です。",
+          "日曜日は休みです。"
+        ]
+      },
+      {
+        "id": "ja-12",
+        "phrases": [
+          "ごはんを食べます。",
+          "お茶を飲みます。",
+          "コーヒーは飲みません。"
+        ]
+      },
+      {
+        "id": "ja-13",
+        "phrases": [
+          "りんごを二つください。",
+          "バナナを三本ください。",
+          "これをください。"
+        ]
+      },
+      {
+        "id": "ja-14",
+        "phrases": [
+          "これはいくらですか。",
+          "五百円です。",
+          "これを買います。"
+        ]
+      },
+      {
+        "id": "ja-15",
+        "phrases": [
+          "母です。",
+          "妹がいます。",
+          "三人家族です。"
+        ]
+      },
+      {
+        "id": "ja-16",
+        "phrases": [
+          "家にいます。",
+          "学校にいます。",
+          "猫がいます。"
+        ]
+      },
+      {
+        "id": "ja-17",
+        "phrases": [
+          "お茶が好きです。",
+          "コーヒーは好きではありません。",
+          "音楽が好きです。"
+        ]
+      },
+      {
+        "id": "ja-18",
+        "phrases": [
+          "お茶をお願いします。",
+          "五百円です。",
+          "ありがとうございます。"
+        ]
+      },
+      {
+        "id": "ja-19",
+        "phrases": [
+          "駅はどこですか。",
+          "まっすぐ行ってください。",
+          "右に曲がってください。"
+        ]
+      },
+      {
+        "id": "ja-20",
+        "phrases": [
+          "バスで行きます。",
+          "電車で行きます。",
+          "駅で降ります。"
+        ]
+      },
+      {
+        "id": "ja-21",
+        "phrases": [
+          "ここはどこですか。",
+          "コンビニは近いですか。",
+          "あそこにあります。"
+        ]
+      },
+      {
+        "id": "ja-22",
+        "phrases": [
+          "一緒にお茶を飲みませんか。",
+          "はい、いいですね。",
+          "今日は忙しいです。"
+        ]
+      },
+      {
+        "id": "ja-23",
+        "phrases": [
+          "明日は暇です。",
+          "公園に行きたいです。",
+          "明日は忙しいです。"
+        ]
+      },
+      {
+        "id": "ja-24",
+        "phrases": [
+          "明日、公園に行きます。",
+          "四時に会いましょう。",
+          "はい、いいですね。"
+        ]
+      },
+      {
+        "id": "ja-25",
+        "phrases": [
+          "手伝ってください。",
+          "ここに書いてください。",
+          "少し待ってください。"
+        ]
+      },
+      {
+        "id": "ja-26",
+        "phrases": [
+          "ここに座ってもいいですか。",
+          "写真を撮ってもいいですか。",
+          "はい、どうぞ。"
+        ]
+      },
+      {
+        "id": "ja-27",
+        "phrases": [
+          "土曜日は暇です。",
+          "午後三時はどうですか。",
+          "三時で大丈夫です。"
+        ]
+      },
+      {
+        "id": "ja-28",
+        "phrases": [
+          "今夜、日本語を勉強します。",
+          "明日、友達に会います。",
+          "一緒に勉強しましょう。"
+        ]
+      },
+      {
+        "id": "ja-29",
+        "phrases": [
+          "今、少し忙しいです。",
+          "後で電話します。",
+          "家に着きました。"
+        ]
+      },
+      {
+        "id": "ja-30",
+        "phrases": [
+          "明日、駅で会いましょう。",
+          "午後二時で大丈夫です。",
+          "よろしくお願いします。"
+        ]
+      }
+    ]
+  },
+  "words": {
+    "en": [
+      {
+        "id": "en-w001",
+        "term": "hello"
+      },
+      {
+        "id": "en-w002",
+        "term": "good morning"
+      },
+      {
+        "id": "en-w003",
+        "term": "good afternoon"
+      },
+      {
+        "id": "en-w004",
+        "term": "good evening"
+      },
+      {
+        "id": "en-w005",
+        "term": "goodbye"
+      },
+      {
+        "id": "en-w006",
+        "term": "see you later"
+      },
+      {
+        "id": "en-w007",
+        "term": "thank you"
+      },
+      {
+        "id": "en-w008",
+        "term": "you're welcome"
+      },
+      {
+        "id": "en-w009",
+        "term": "please"
+      },
+      {
+        "id": "en-w010",
+        "term": "sorry"
+      },
+      {
+        "id": "en-w011",
+        "term": "excuse me"
+      },
+      {
+        "id": "en-w012",
+        "term": "nice to meet you"
+      },
+      {
+        "id": "en-w013",
+        "term": "I"
+      },
+      {
+        "id": "en-w014",
+        "term": "you"
+      },
+      {
+        "id": "en-w015",
+        "term": "we"
+      },
+      {
+        "id": "en-w016",
+        "term": "they"
+      },
+      {
+        "id": "en-w017",
+        "term": "friend"
+      },
+      {
+        "id": "en-w018",
+        "term": "mother"
+      },
+      {
+        "id": "en-w019",
+        "term": "father"
+      },
+      {
+        "id": "en-w020",
+        "term": "sister"
+      },
+      {
+        "id": "en-w021",
+        "term": "brother"
+      },
+      {
+        "id": "en-w022",
+        "term": "child"
+      },
+      {
+        "id": "en-w023",
+        "term": "teacher"
+      },
+      {
+        "id": "en-w024",
+        "term": "neighbor"
+      },
+      {
+        "id": "en-w025",
+        "term": "zero"
+      },
+      {
+        "id": "en-w026",
+        "term": "one"
+      },
+      {
+        "id": "en-w027",
+        "term": "two"
+      },
+      {
+        "id": "en-w028",
+        "term": "three"
+      },
+      {
+        "id": "en-w029",
+        "term": "four"
+      },
+      {
+        "id": "en-w030",
+        "term": "five"
+      },
+      {
+        "id": "en-w031",
+        "term": "six"
+      },
+      {
+        "id": "en-w032",
+        "term": "seven"
+      },
+      {
+        "id": "en-w033",
+        "term": "eight"
+      },
+      {
+        "id": "en-w034",
+        "term": "nine"
+      },
+      {
+        "id": "en-w035",
+        "term": "ten"
+      },
+      {
+        "id": "en-w036",
+        "term": "twenty"
+      },
+      {
+        "id": "en-w037",
+        "term": "water"
+      },
+      {
+        "id": "en-w038",
+        "term": "tea"
+      },
+      {
+        "id": "en-w039",
+        "term": "coffee"
+      },
+      {
+        "id": "en-w040",
+        "term": "milk"
+      },
+      {
+        "id": "en-w041",
+        "term": "rice"
+      },
+      {
+        "id": "en-w042",
+        "term": "bread"
+      },
+      {
+        "id": "en-w043",
+        "term": "egg"
+      },
+      {
+        "id": "en-w044",
+        "term": "apple"
+      },
+      {
+        "id": "en-w045",
+        "term": "banana"
+      },
+      {
+        "id": "en-w046",
+        "term": "chicken"
+      },
+      {
+        "id": "en-w047",
+        "term": "vegetables"
+      },
+      {
+        "id": "en-w048",
+        "term": "breakfast"
+      },
+      {
+        "id": "en-w049",
+        "term": "home"
+      },
+      {
+        "id": "en-w050",
+        "term": "school"
+      },
+      {
+        "id": "en-w051",
+        "term": "café"
+      },
+      {
+        "id": "en-w052",
+        "term": "supermarket"
+      },
+      {
+        "id": "en-w053",
+        "term": "park"
+      },
+      {
+        "id": "en-w054",
+        "term": "office"
+      },
+      {
+        "id": "en-w055",
+        "term": "library"
+      },
+      {
+        "id": "en-w056",
+        "term": "station"
+      },
+      {
+        "id": "en-w057",
+        "term": "restaurant"
+      },
+      {
+        "id": "en-w058",
+        "term": "room"
+      },
+      {
+        "id": "en-w059",
+        "term": "hotel"
+      },
+      {
+        "id": "en-w060",
+        "term": "restroom"
+      },
+      {
+        "id": "en-w061",
+        "term": "today"
+      },
+      {
+        "id": "en-w062",
+        "term": "tomorrow"
+      },
+      {
+        "id": "en-w063",
+        "term": "yesterday"
+      },
+      {
+        "id": "en-w064",
+        "term": "morning"
+      },
+      {
+        "id": "en-w065",
+        "term": "afternoon"
+      },
+      {
+        "id": "en-w066",
+        "term": "evening"
+      },
+      {
+        "id": "en-w067",
+        "term": "night"
+      },
+      {
+        "id": "en-w068",
+        "term": "week"
+      },
+      {
+        "id": "en-w069",
+        "term": "weekend"
+      },
+      {
+        "id": "en-w070",
+        "term": "month"
+      },
+      {
+        "id": "en-w071",
+        "term": "hour"
+      },
+      {
+        "id": "en-w072",
+        "term": "minute"
+      },
+      {
+        "id": "en-w073",
+        "term": "go"
+      },
+      {
+        "id": "en-w074",
+        "term": "come"
+      },
+      {
+        "id": "en-w075",
+        "term": "eat"
+      },
+      {
+        "id": "en-w076",
+        "term": "drink"
+      },
+      {
+        "id": "en-w077",
+        "term": "buy"
+      },
+      {
+        "id": "en-w078",
+        "term": "pay"
+      },
+      {
+        "id": "en-w079",
+        "term": "speak"
+      },
+      {
+        "id": "en-w080",
+        "term": "listen"
+      },
+      {
+        "id": "en-w081",
+        "term": "read"
+      },
+      {
+        "id": "en-w082",
+        "term": "write"
+      },
+      {
+        "id": "en-w083",
+        "term": "open"
+      },
+      {
+        "id": "en-w084",
+        "term": "close"
+      },
+      {
+        "id": "en-w085",
+        "term": "happy"
+      },
+      {
+        "id": "en-w086",
+        "term": "sad"
+      },
+      {
+        "id": "en-w087",
+        "term": "tired"
+      },
+      {
+        "id": "en-w088",
+        "term": "hungry"
+      },
+      {
+        "id": "en-w089",
+        "term": "thirsty"
+      },
+      {
+        "id": "en-w090",
+        "term": "worried"
+      },
+      {
+        "id": "en-w091",
+        "term": "excited"
+      },
+      {
+        "id": "en-w092",
+        "term": "bored"
+      },
+      {
+        "id": "en-w093",
+        "term": "calm"
+      },
+      {
+        "id": "en-w094",
+        "term": "proud"
+      },
+      {
+        "id": "en-w095",
+        "term": "surprised"
+      },
+      {
+        "id": "en-w096",
+        "term": "comfortable"
+      },
+      {
+        "id": "en-w097",
+        "term": "lesson"
+      },
+      {
+        "id": "en-w098",
+        "term": "course"
+      },
+      {
+        "id": "en-w099",
+        "term": "question"
+      },
+      {
+        "id": "en-w100",
+        "term": "answer"
+      },
+      {
+        "id": "en-w101",
+        "term": "word"
+      },
+      {
+        "id": "en-w102",
+        "term": "sentence"
+      },
+      {
+        "id": "en-w103",
+        "term": "meaning"
+      },
+      {
+        "id": "en-w104",
+        "term": "homework"
+      },
+      {
+        "id": "en-w105",
+        "term": "practice"
+      },
+      {
+        "id": "en-w106",
+        "term": "repeat"
+      },
+      {
+        "id": "en-w107",
+        "term": "understand"
+      },
+      {
+        "id": "en-w108",
+        "term": "remember"
+      },
+      {
+        "id": "en-w109",
+        "term": "bus"
+      },
+      {
+        "id": "en-w110",
+        "term": "train"
+      },
+      {
+        "id": "en-w111",
+        "term": "taxi"
+      },
+      {
+        "id": "en-w112",
+        "term": "ticket"
+      },
+      {
+        "id": "en-w113",
+        "term": "airport"
+      },
+      {
+        "id": "en-w114",
+        "term": "bus stop"
+      },
+      {
+        "id": "en-w115",
+        "term": "left"
+      },
+      {
+        "id": "en-w116",
+        "term": "right"
+      },
+      {
+        "id": "en-w117",
+        "term": "straight"
+      },
+      {
+        "id": "en-w118",
+        "term": "map"
+      },
+      {
+        "id": "en-w119",
+        "term": "where"
+      },
+      {
+        "id": "en-w120",
+        "term": "how much"
+      }
+    ],
+    "zh": [
+      {
+        "id": "zh-w001",
+        "term": "你好"
+      },
+      {
+        "id": "zh-w002",
+        "term": "您好"
+      },
+      {
+        "id": "zh-w003",
+        "term": "早上好"
+      },
+      {
+        "id": "zh-w004",
+        "term": "下午好"
+      },
+      {
+        "id": "zh-w005",
+        "term": "晚上好"
+      },
+      {
+        "id": "zh-w006",
+        "term": "再见"
+      },
+      {
+        "id": "zh-w007",
+        "term": "谢谢"
+      },
+      {
+        "id": "zh-w008",
+        "term": "不客气"
+      },
+      {
+        "id": "zh-w009",
+        "term": "对不起"
+      },
+      {
+        "id": "zh-w010",
+        "term": "没关系"
+      },
+      {
+        "id": "zh-w011",
+        "term": "请"
+      },
+      {
+        "id": "zh-w012",
+        "term": "欢迎"
+      },
+      {
+        "id": "zh-w013",
+        "term": "我"
+      },
+      {
+        "id": "zh-w014",
+        "term": "你"
+      },
+      {
+        "id": "zh-w015",
+        "term": "他"
+      },
+      {
+        "id": "zh-w016",
+        "term": "她"
+      },
+      {
+        "id": "zh-w017",
+        "term": "我们"
+      },
+      {
+        "id": "zh-w018",
+        "term": "朋友"
+      },
+      {
+        "id": "zh-w019",
+        "term": "家人"
+      },
+      {
+        "id": "zh-w020",
+        "term": "妈妈"
+      },
+      {
+        "id": "zh-w021",
+        "term": "爸爸"
+      },
+      {
+        "id": "zh-w022",
+        "term": "哥哥"
+      },
+      {
+        "id": "zh-w023",
+        "term": "妹妹"
+      },
+      {
+        "id": "zh-w024",
+        "term": "老师"
+      },
+      {
+        "id": "zh-w025",
+        "term": "一"
+      },
+      {
+        "id": "zh-w026",
+        "term": "二"
+      },
+      {
+        "id": "zh-w027",
+        "term": "三"
+      },
+      {
+        "id": "zh-w028",
+        "term": "四"
+      },
+      {
+        "id": "zh-w029",
+        "term": "五"
+      },
+      {
+        "id": "zh-w030",
+        "term": "六"
+      },
+      {
+        "id": "zh-w031",
+        "term": "七"
+      },
+      {
+        "id": "zh-w032",
+        "term": "八"
+      },
+      {
+        "id": "zh-w033",
+        "term": "九"
+      },
+      {
+        "id": "zh-w034",
+        "term": "十"
+      },
+      {
+        "id": "zh-w035",
+        "term": "百"
+      },
+      {
+        "id": "zh-w036",
+        "term": "千"
+      },
+      {
+        "id": "zh-w037",
+        "term": "水"
+      },
+      {
+        "id": "zh-w038",
+        "term": "茶"
+      },
+      {
+        "id": "zh-w039",
+        "term": "咖啡"
+      },
+      {
+        "id": "zh-w040",
+        "term": "牛奶"
+      },
+      {
+        "id": "zh-w041",
+        "term": "米饭"
+      },
+      {
+        "id": "zh-w042",
+        "term": "面条"
+      },
+      {
+        "id": "zh-w043",
+        "term": "鸡蛋"
+      },
+      {
+        "id": "zh-w044",
+        "term": "面包"
+      },
+      {
+        "id": "zh-w045",
+        "term": "苹果"
+      },
+      {
+        "id": "zh-w046",
+        "term": "香蕉"
+      },
+      {
+        "id": "zh-w047",
+        "term": "鱼"
+      },
+      {
+        "id": "zh-w048",
+        "term": "蔬菜"
+      },
+      {
+        "id": "zh-w049",
+        "term": "家"
+      },
+      {
+        "id": "zh-w050",
+        "term": "学校"
+      },
+      {
+        "id": "zh-w051",
+        "term": "公司"
+      },
+      {
+        "id": "zh-w052",
+        "term": "商店"
+      },
+      {
+        "id": "zh-w053",
+        "term": "超市"
+      },
+      {
+        "id": "zh-w054",
+        "term": "饭店"
+      },
+      {
+        "id": "zh-w055",
+        "term": "咖啡馆"
+      },
+      {
+        "id": "zh-w056",
+        "term": "公园"
+      },
+      {
+        "id": "zh-w057",
+        "term": "银行"
+      },
+      {
+        "id": "zh-w058",
+        "term": "厕所"
+      },
+      {
+        "id": "zh-w059",
+        "term": "书店"
+      },
+      {
+        "id": "zh-w060",
+        "term": "医院"
+      },
+      {
+        "id": "zh-w061",
+        "term": "今天"
+      },
+      {
+        "id": "zh-w062",
+        "term": "明天"
+      },
+      {
+        "id": "zh-w063",
+        "term": "昨天"
+      },
+      {
+        "id": "zh-w064",
+        "term": "现在"
+      },
+      {
+        "id": "zh-w065",
+        "term": "早上"
+      },
+      {
+        "id": "zh-w066",
+        "term": "中午"
+      },
+      {
+        "id": "zh-w067",
+        "term": "下午"
+      },
+      {
+        "id": "zh-w068",
+        "term": "晚上"
+      },
+      {
+        "id": "zh-w069",
+        "term": "星期"
+      },
+      {
+        "id": "zh-w070",
+        "term": "周末"
+      },
+      {
+        "id": "zh-w071",
+        "term": "分钟"
+      },
+      {
+        "id": "zh-w072",
+        "term": "小时"
+      },
+      {
+        "id": "zh-w073",
+        "term": "吃"
+      },
+      {
+        "id": "zh-w074",
+        "term": "喝"
+      },
+      {
+        "id": "zh-w075",
+        "term": "买"
+      },
+      {
+        "id": "zh-w076",
+        "term": "看"
+      },
+      {
+        "id": "zh-w077",
+        "term": "听"
+      },
+      {
+        "id": "zh-w078",
+        "term": "说"
+      },
+      {
+        "id": "zh-w079",
+        "term": "写"
+      },
+      {
+        "id": "zh-w080",
+        "term": "读"
+      },
+      {
+        "id": "zh-w081",
+        "term": "学"
+      },
+      {
+        "id": "zh-w082",
+        "term": "工作"
+      },
+      {
+        "id": "zh-w083",
+        "term": "休息"
+      },
+      {
+        "id": "zh-w084",
+        "term": "喜欢"
+      },
+      {
+        "id": "zh-w085",
+        "term": "高兴"
+      },
+      {
+        "id": "zh-w086",
+        "term": "累"
+      },
+      {
+        "id": "zh-w087",
+        "term": "饿"
+      },
+      {
+        "id": "zh-w088",
+        "term": "渴"
+      },
+      {
+        "id": "zh-w089",
+        "term": "忙"
+      },
+      {
+        "id": "zh-w090",
+        "term": "冷"
+      },
+      {
+        "id": "zh-w091",
+        "term": "热"
+      },
+      {
+        "id": "zh-w092",
+        "term": "害怕"
+      },
+      {
+        "id": "zh-w093",
+        "term": "紧张"
+      },
+      {
+        "id": "zh-w094",
+        "term": "难过"
+      },
+      {
+        "id": "zh-w095",
+        "term": "舒服"
+      },
+      {
+        "id": "zh-w096",
+        "term": "安静"
+      },
+      {
+        "id": "zh-w097",
+        "term": "学生"
+      },
+      {
+        "id": "zh-w098",
+        "term": "中文"
+      },
+      {
+        "id": "zh-w099",
+        "term": "英语"
+      },
+      {
+        "id": "zh-w100",
+        "term": "书"
+      },
+      {
+        "id": "zh-w101",
+        "term": "笔"
+      },
+      {
+        "id": "zh-w102",
+        "term": "本子"
+      },
+      {
+        "id": "zh-w103",
+        "term": "汉字"
+      },
+      {
+        "id": "zh-w104",
+        "term": "拼音"
+      },
+      {
+        "id": "zh-w105",
+        "term": "问题"
+      },
+      {
+        "id": "zh-w106",
+        "term": "答案"
+      },
+      {
+        "id": "zh-w107",
+        "term": "课"
+      },
+      {
+        "id": "zh-w108",
+        "term": "作业"
+      },
+      {
+        "id": "zh-w109",
+        "term": "车"
+      },
+      {
+        "id": "zh-w110",
+        "term": "公交车"
+      },
+      {
+        "id": "zh-w111",
+        "term": "地铁"
+      },
+      {
+        "id": "zh-w112",
+        "term": "出租车"
+      },
+      {
+        "id": "zh-w113",
+        "term": "火车"
+      },
+      {
+        "id": "zh-w114",
+        "term": "飞机"
+      },
+      {
+        "id": "zh-w115",
+        "term": "车站"
+      },
+      {
+        "id": "zh-w116",
+        "term": "机场"
+      },
+      {
+        "id": "zh-w117",
+        "term": "票"
+      },
+      {
+        "id": "zh-w118",
+        "term": "地图"
+      },
+      {
+        "id": "zh-w119",
+        "term": "左边"
+      },
+      {
+        "id": "zh-w120",
+        "term": "右边"
+      }
+    ],
+    "ja": [
+      {
+        "id": "ja-w001",
+        "term": "こんにちは"
+      },
+      {
+        "id": "ja-w002",
+        "term": "おはようございます"
+      },
+      {
+        "id": "ja-w003",
+        "term": "こんばんは"
+      },
+      {
+        "id": "ja-w004",
+        "term": "さようなら"
+      },
+      {
+        "id": "ja-w005",
+        "term": "また明日"
+      },
+      {
+        "id": "ja-w006",
+        "term": "ありがとうございます"
+      },
+      {
+        "id": "ja-w007",
+        "term": "すみません"
+      },
+      {
+        "id": "ja-w008",
+        "term": "はじめまして"
+      },
+      {
+        "id": "ja-w009",
+        "term": "よろしくお願いします"
+      },
+      {
+        "id": "ja-w010",
+        "term": "どういたしまして"
+      },
+      {
+        "id": "ja-w011",
+        "term": "おやすみなさい"
+      },
+      {
+        "id": "ja-w012",
+        "term": "失礼します"
+      },
+      {
+        "id": "ja-w013",
+        "term": "私"
+      },
+      {
+        "id": "ja-w014",
+        "term": "人"
+      },
+      {
+        "id": "ja-w015",
+        "term": "友達"
+      },
+      {
+        "id": "ja-w016",
+        "term": "家族"
+      },
+      {
+        "id": "ja-w017",
+        "term": "母"
+      },
+      {
+        "id": "ja-w018",
+        "term": "父"
+      },
+      {
+        "id": "ja-w019",
+        "term": "兄"
+      },
+      {
+        "id": "ja-w020",
+        "term": "姉"
+      },
+      {
+        "id": "ja-w021",
+        "term": "弟"
+      },
+      {
+        "id": "ja-w022",
+        "term": "妹"
+      },
+      {
+        "id": "ja-w023",
+        "term": "子供"
+      },
+      {
+        "id": "ja-w024",
+        "term": "先生"
+      },
+      {
+        "id": "ja-w025",
+        "term": "一"
+      },
+      {
+        "id": "ja-w026",
+        "term": "二"
+      },
+      {
+        "id": "ja-w027",
+        "term": "三"
+      },
+      {
+        "id": "ja-w028",
+        "term": "四"
+      },
+      {
+        "id": "ja-w029",
+        "term": "五"
+      },
+      {
+        "id": "ja-w030",
+        "term": "六"
+      },
+      {
+        "id": "ja-w031",
+        "term": "七"
+      },
+      {
+        "id": "ja-w032",
+        "term": "八"
+      },
+      {
+        "id": "ja-w033",
+        "term": "九"
+      },
+      {
+        "id": "ja-w034",
+        "term": "十"
+      },
+      {
+        "id": "ja-w035",
+        "term": "百"
+      },
+      {
+        "id": "ja-w036",
+        "term": "千"
+      },
+      {
+        "id": "ja-w037",
+        "term": "水"
+      },
+      {
+        "id": "ja-w038",
+        "term": "お茶"
+      },
+      {
+        "id": "ja-w039",
+        "term": "コーヒー"
+      },
+      {
+        "id": "ja-w040",
+        "term": "ごはん"
+      },
+      {
+        "id": "ja-w041",
+        "term": "パン"
+      },
+      {
+        "id": "ja-w042",
+        "term": "りんご"
+      },
+      {
+        "id": "ja-w043",
+        "term": "バナナ"
+      },
+      {
+        "id": "ja-w044",
+        "term": "牛乳"
+      },
+      {
+        "id": "ja-w045",
+        "term": "卵"
+      },
+      {
+        "id": "ja-w046",
+        "term": "魚"
+      },
+      {
+        "id": "ja-w047",
+        "term": "肉"
+      },
+      {
+        "id": "ja-w048",
+        "term": "野菜"
+      },
+      {
+        "id": "ja-w049",
+        "term": "家"
+      },
+      {
+        "id": "ja-w050",
+        "term": "学校"
+      },
+      {
+        "id": "ja-w051",
+        "term": "会社"
+      },
+      {
+        "id": "ja-w052",
+        "term": "駅"
+      },
+      {
+        "id": "ja-w053",
+        "term": "公園"
+      },
+      {
+        "id": "ja-w054",
+        "term": "店"
+      },
+      {
+        "id": "ja-w055",
+        "term": "スーパー"
+      },
+      {
+        "id": "ja-w056",
+        "term": "コンビニ"
+      },
+      {
+        "id": "ja-w057",
+        "term": "図書館"
+      },
+      {
+        "id": "ja-w058",
+        "term": "レストラン"
+      },
+      {
+        "id": "ja-w059",
+        "term": "カフェ"
+      },
+      {
+        "id": "ja-w060",
+        "term": "銀行"
+      },
+      {
+        "id": "ja-w061",
+        "term": "今日"
+      },
+      {
+        "id": "ja-w062",
+        "term": "明日"
+      },
+      {
+        "id": "ja-w063",
+        "term": "昨日"
+      },
+      {
+        "id": "ja-w064",
+        "term": "今"
+      },
+      {
+        "id": "ja-w065",
+        "term": "朝"
+      },
+      {
+        "id": "ja-w066",
+        "term": "昼"
+      },
+      {
+        "id": "ja-w067",
+        "term": "夜"
+      },
+      {
+        "id": "ja-w068",
+        "term": "午前"
+      },
+      {
+        "id": "ja-w069",
+        "term": "午後"
+      },
+      {
+        "id": "ja-w070",
+        "term": "月曜日"
+      },
+      {
+        "id": "ja-w071",
+        "term": "土曜日"
+      },
+      {
+        "id": "ja-w072",
+        "term": "日曜日"
+      },
+      {
+        "id": "ja-w073",
+        "term": "行く"
+      },
+      {
+        "id": "ja-w074",
+        "term": "来る"
+      },
+      {
+        "id": "ja-w075",
+        "term": "帰る"
+      },
+      {
+        "id": "ja-w076",
+        "term": "食べる"
+      },
+      {
+        "id": "ja-w077",
+        "term": "飲む"
+      },
+      {
+        "id": "ja-w078",
+        "term": "見る"
+      },
+      {
+        "id": "ja-w079",
+        "term": "聞く"
+      },
+      {
+        "id": "ja-w080",
+        "term": "話す"
+      },
+      {
+        "id": "ja-w081",
+        "term": "読む"
+      },
+      {
+        "id": "ja-w082",
+        "term": "書く"
+      },
+      {
+        "id": "ja-w083",
+        "term": "買う"
+      },
+      {
+        "id": "ja-w084",
+        "term": "待つ"
+      },
+      {
+        "id": "ja-w085",
+        "term": "うれしい"
+      },
+      {
+        "id": "ja-w086",
+        "term": "楽しい"
+      },
+      {
+        "id": "ja-w087",
+        "term": "悲しい"
+      },
+      {
+        "id": "ja-w088",
+        "term": "寂しい"
+      },
+      {
+        "id": "ja-w089",
+        "term": "疲れた"
+      },
+      {
+        "id": "ja-w090",
+        "term": "眠い"
+      },
+      {
+        "id": "ja-w091",
+        "term": "忙しい"
+      },
+      {
+        "id": "ja-w092",
+        "term": "暇"
+      },
+      {
+        "id": "ja-w093",
+        "term": "大丈夫"
+      },
+      {
+        "id": "ja-w094",
+        "term": "好き"
+      },
+      {
+        "id": "ja-w095",
+        "term": "嫌い"
+      },
+      {
+        "id": "ja-w096",
+        "term": "安心"
+      },
+      {
+        "id": "ja-w097",
+        "term": "日本語"
+      },
+      {
+        "id": "ja-w098",
+        "term": "英語"
+      },
+      {
+        "id": "ja-w099",
+        "term": "中国語"
+      },
+      {
+        "id": "ja-w100",
+        "term": "ひらがな"
+      },
+      {
+        "id": "ja-w101",
+        "term": "カタカナ"
+      },
+      {
+        "id": "ja-w102",
+        "term": "漢字"
+      },
+      {
+        "id": "ja-w103",
+        "term": "本"
+      },
+      {
+        "id": "ja-w104",
+        "term": "ノート"
+      },
+      {
+        "id": "ja-w105",
+        "term": "ペン"
+      },
+      {
+        "id": "ja-w106",
+        "term": "授業"
+      },
+      {
+        "id": "ja-w107",
+        "term": "宿題"
+      },
+      {
+        "id": "ja-w108",
+        "term": "勉強"
+      },
+      {
+        "id": "ja-w109",
+        "term": "バス"
+      },
+      {
+        "id": "ja-w110",
+        "term": "電車"
+      },
+      {
+        "id": "ja-w111",
+        "term": "地下鉄"
+      },
+      {
+        "id": "ja-w112",
+        "term": "タクシー"
+      },
+      {
+        "id": "ja-w113",
+        "term": "自転車"
+      },
+      {
+        "id": "ja-w114",
+        "term": "切符"
+      },
+      {
+        "id": "ja-w115",
+        "term": "旅行"
+      },
+      {
+        "id": "ja-w116",
+        "term": "地図"
+      },
+      {
+        "id": "ja-w117",
+        "term": "右"
+      },
+      {
+        "id": "ja-w118",
+        "term": "左"
+      },
+      {
+        "id": "ja-w119",
+        "term": "まっすぐ"
+      },
+      {
+        "id": "ja-w120",
+        "term": "ホテル"
+      }
+    ]
+  },
+  "migrations": {
+    "0000_melted_post.sql": "f324bed78668fa9aa79b0acdc54b76de5d8ed3677e86bc7d6890595132a8537a",
+    "0001_equal_black_queen.sql": "9cfc50d35ede7a04a522d49f362227bfead2bf0d62266c1e9e9b43ce7a17ca6e",
+    "0002_smart_wolfsbane.sql": "2314cb19259e3a855b94502a8c4c47f05890e39f5b93ba3b9d4b7e29862a5b26"
+  }
+}

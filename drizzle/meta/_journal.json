@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791379599889,
+      "tag": "0000_melted_post",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791387834600,
+      "tag": "0001_equal_black_queen",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791461412449,
+      "tag": "0002_smart_wolfsbane",
+      "breakpoints": true
+    }
+  ]
+}
